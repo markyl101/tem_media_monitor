@@ -14,6 +14,7 @@ from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 
 from src.config import load_config
+from src.date_extractor import enrich_missing_dates
 from src.dedup import deduplicate, prune_old
 from src.newsletter import append_to_weekly_log, run_newsletter
 from src.scoring import score_items
@@ -36,14 +37,17 @@ logger = logging.getLogger(__name__)
 def _filter_by_age(items: list[dict], max_age_hours: float) -> list[dict]:
     """Drop items whose published date is older than max_age_hours.
 
-    Items with missing or unparseable dates are kept (fail-open).
+    Items with a missing or "unknown" published date are dropped — by the time
+    this filter runs, enrich_missing_dates() has already attempted extraction,
+    so a still-empty/unknown date means we genuinely don't know when the
+    article was published and it should not appear in alerts or the digest.
     """
     cutoff = datetime.now(timezone.utc) - timedelta(hours=max_age_hours)
     fresh = []
     for item in items:
-        pub = item.get("published", "")
-        if not pub:
-            fresh.append(item)
+        pub = item.get("published", "").strip()
+        if not pub or pub == "unknown":
+            logger.debug("Dropping item with no published date: %s", item.get("url", ""))
             continue
         pub_dt = None
         try:
@@ -56,8 +60,8 @@ def _filter_by_age(items: list[dict], max_age_hours: float) -> list[dict]:
             except Exception:
                 pass
         if pub_dt is None:
-            # Unknown format — include rather than silently drop
-            fresh.append(item)
+            # Unrecognised format — drop rather than include undated content
+            logger.debug("Dropping item with unparseable date '%s': %s", pub, item.get("url", ""))
             continue
         if pub_dt.tzinfo is None:
             pub_dt = pub_dt.replace(tzinfo=timezone.utc)
@@ -81,10 +85,15 @@ def run_scan():
     all_items.extend(regulatory.fetch(cfg))
     logger.info(f"Total raw items: {len(all_items)}")
 
-    # 2a. Age filter — keep only items published in the last 2 hours
+    # 2a. Enrich missing published dates — fetch each undated article and ask
+    #     Claude to extract a date.  Items where no date can be found are
+    #     marked published="unknown" so the age filter drops them.
+    all_items = enrich_missing_dates(all_items, cfg)
+
+    # 2b. Age filter — keep only items published in the last 2 hours
     max_age_hours = cfg.get("scan", {}).get("max_age_hours", 2)
     all_items = _filter_by_age(all_items, max_age_hours)
-    logger.info(f"After age filter ({max_age_hours}h): {len(all_items)} items")
+    logger.info(f"After age + date filter ({max_age_hours}h): {len(all_items)} items")
 
     if not all_items:
         logger.info("No recent items — exiting")
