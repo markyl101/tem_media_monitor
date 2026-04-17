@@ -1,0 +1,84 @@
+# tem media monitor configuration
+
+scoring:
+  model: claude-haiku-4-5-20251001
+  # Thresholds for routing
+  instant_alert_min: 8    # Score 8-10 → instant Slack alert
+  digest_min: 4           # Score 4-7  → daily digest queue
+  # Below digest_min → store to log only
+
+slack:
+  instant_channel: "#tem-intel-alerts-test"
+  digest_channel: "#tem-intel-digest-test"
+
+keywords:
+  brand:
+    - "tem energy"
+    - "tem.energy"
+    - "Renewable Energy Direct"
+
+  competitors:
+    - "Yü Energy"
+    - "Opus Energy"
+    - "Haven Power"
+    - "SmartestEnergy"
+    - "Octopus Energy Business"
+    - "Drax Energy Solutions"
+    - "TotalEnergies Gas & Power"
+    - "F&S Energy"
+    - "Evolve Energy"
+    - "Fuse Energy"
+    - "EDF Energy Business"
+
+  industry:
+    - "wholesale electricity UK"
+    - "half-hourly settlement"
+    - "power purchase agreement UK"
+    - "Ofgem announcement"
+    - "Elexon BSC"
+    - "imbalance price UK"
+    - "DNO charges"
+    - "industry non-power costs"
+    - "corporate PPA UK"
+    - "flex trading energy"
+    - "I&C energy supplier"
+    - "energy broker UK"
+    - "anaerobic digestion PPA"
+    - "solar PPA generator UK"
+    - "balancing mechanism UK"
+    - "BSUoS charges"
+    - "MHHS settlement"
+
+rss_feeds:
+  competitors:
+    - url: "https://www.yuenergy.co.uk/feed/"
+      name: "Yü Energy"
+    - url: "https://www.smartestenergy.com/feed/"
+      name: "SmartestEnergy"
+    - url: "https://octopus.energy/blog/feed/"
+      name: "Octopus Energy"
+    - url: "https://www.drax.com/feed/"
+      name: "Drax"
+
+  industry:
+    - url: "https://www.current-news.co.uk/feed/"
+      name: "Current News"
+    - url: "https://www.energylivenews.com/feed/"
+      name: "Energy Live News"
+    - url: "https://www.utilitydive.com/feeds/news/"
+      name: "Utility Dive"
+    - url: "https://www.cornwall-insight.com/feed/"
+      name: "Cornwall Insight"
+
+  regulatory:
+    - url: "https://www.ofgem.gov.uk/rss"
+      name: "Ofgem"
+    - url: "https://www.elexon.co.uk/feed/"
+      name: "Elexon"
+
+reddit:
+  community: "energy"  # Apify scraper searches within this subreddit
+
+newsletter:
+  subject_prefix: "[tem intel]"
+  # Recipients set via NEWSLETTER_RECIPIENTS env var (comma-separated emails)

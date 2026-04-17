@@ -1,0 +1,34 @@
+name: Monthly Prune
+
+on:
+  schedule:
+    - cron: "0 3 1 * *"  # 1st of every month at 3am UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  prune:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Prune old seen URLs
+        run: python -m src.main prune
+
+      - name: Commit pruned state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/seen_urls.json
+          git diff --staged --quiet || git commit -m "chore: prune old URLs [skip ci]"
+          git push
