@@ -152,5 +152,19 @@
     "sentiment": "neutral",
     "ai_summary": "Consultation on network infrastructure consents and land rights affects renewable energy project development speed and cost, which indirectly influences generator customer base and renewable capacity available to tem.",
     "ai_reasoning": "Relevant to enabling renewable generation capacity and speeding up grid connection, which affects tem's generator customer acquisition and wholesale cost environment. Important background but not directly about tem's pricing, regulation of I&C supply, or trading."
+  },
+  {
+    "url": "https://www.energylivenews.com/2026/04/21/europes-electricity-prices-remain-tied-to-gas-amid-geopolitical-risks/",
+    "title": "Europe\u2019s electricity prices remain tied to gas amid geopolitical risks",
+    "snippet": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://www.energylivenews.com/wp-content/uploads/2025/12/Shutterstock_2393210151-150x150.jpg\" width=\"150\" />Gas continues to set electricity prices across Europe, exposing markets to volatility and geopolitical shocks despite falling reliance</p>\n<p>The post <a href=\"https://www.energylivenews.com/2026/04/21/europes-electricity-prices-remain-tied-to-gas-amid-geopolitical-risks/\">Europe\u2019s electricity price",
+    "source": "Energy Live News",
+    "published": "Tue, 21 Apr 2026 13:00:00 +0000",
+    "fetched_via": "rss_industry",
+    "fetched_at": "2026-04-21T13:27:21.191333+00:00",
+    "relevance_score": 5,
+    "category": "industry",
+    "sentiment": "neutral",
+    "ai_summary": "European electricity price volatility driven by gas indexation affects wholesale market dynamics that impact tem's pricing strategy and customer offerings, though this is a broad market trend rather than UK-specific.",
+    "ai_reasoning": "General industry background on wholesale price drivers. Relevant to understanding market context but not actionable this week. No UK focus, no direct tem impact, no regulatory change."
   }
 ]
