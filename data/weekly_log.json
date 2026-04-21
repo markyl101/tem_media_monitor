@@ -180,5 +180,19 @@
     "sentiment": "positive",
     "ai_summary": "Global momentum on fossil fuel phase-out supports the long-term case for renewable energy and decarbonisation policy, which is favourable context for tem's positioning.",
     "ai_reasoning": "This is general macro-level policy and industry trend that creates favourable tailwinds for renewables, but does not directly affect tem's operations, competitors, or immediate market conditions. Worth tracking as background context."
+  },
+  {
+    "url": "https://www.reddit.com/r/energy/comments/1ss413h/important_threshold_crossed_as_renewables_meet/",
+    "title": "\u2018Important threshold crossed\u2019 as renewables meet world\u2019s energy demands and fossil power drops",
+    "snippet": "Images:\n\thttps://external-preview.redd.it/Bqw1_GVY9sdEmxzFLPl4xcJ_AJ6O1KiOVd6FYFXSTXE.jpeg?auto=webp&amp;s=9fdec7d59e774f8781e0b6026ff6709133c9c226\n",
+    "source": "r/energy",
+    "published": "2026-04-21T23:11:05.000Z",
+    "fetched_via": "reddit",
+    "fetched_at": "2026-04-21T23:35:49.339288+00:00",
+    "relevance_score": 5,
+    "category": "industry",
+    "sentiment": "positive",
+    "ai_summary": "Global renewables milestone showing increased renewable energy penetration supports the long-term market backdrop for renewable energy suppliers, though this is high-level macro context rather than actionable business news.",
+    "ai_reasoning": "This is general industry background on renewable energy trends at a global/world level. While positive sentiment for renewables is beneficial context, it's not specific to UK I&C market, tem's competitors, regulatory changes, or wholesale pricing dynamics. It's worth reading to understand market tailwinds but requires no immediate action."
   }
 ]
