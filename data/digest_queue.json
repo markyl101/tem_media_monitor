@@ -40,5 +40,19 @@
     "sentiment": "neutral",
     "ai_summary": "European electricity price volatility driven by gas indexation affects wholesale market dynamics that impact tem's pricing strategy and customer offerings, though this is a broad market trend rather than UK-specific.",
     "ai_reasoning": "General industry background on wholesale price drivers. Relevant to understanding market context but not actionable this week. No UK focus, no direct tem impact, no regulatory change."
+  },
+  {
+    "url": "https://www.energylivenews.com/2026/04/21/pacific-nations-unite-to-accelerate-fossil-fuel-phase-out-and-cut-emissions/",
+    "title": "Pacific nations unite to accelerate fossil fuel phase-out and cut emissions",
+    "snippet": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://www.energylivenews.com/wp-content/uploads/2026/04/shutterstock_1732426456-150x150.jpg\" width=\"150\" />Pacific nations push global fossil fuel phase-out to cut emissions</p>\n<p>The post <a href=\"https://www.energylivenews.com/2026/04/21/pacific-nations-unite-to-accelerate-fossil-fuel-phase-out-and-cut-emissions/\">Pacific nations unite to accelerate fossil fuel phase-out and cut emissions</a> appeared",
+    "source": "Energy Live News",
+    "published": "Tue, 21 Apr 2026 14:00:00 +0000",
+    "fetched_via": "rss_industry",
+    "fetched_at": "2026-04-21T15:13:51.162726+00:00",
+    "relevance_score": 5,
+    "category": "industry",
+    "sentiment": "positive",
+    "ai_summary": "Global momentum on fossil fuel phase-out supports the long-term case for renewable energy and decarbonisation policy, which is favourable context for tem's positioning.",
+    "ai_reasoning": "This is general macro-level policy and industry trend that creates favourable tailwinds for renewables, but does not directly affect tem's operations, competitors, or immediate market conditions. Worth tracking as background context."
   }
 ]
