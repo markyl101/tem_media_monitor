@@ -12,5 +12,19 @@
     "sentiment": "neutral",
     "ai_summary": "Discussion of solar's growing share in global electricity generation based on IEA data. Relevant background on renewable energy trends that affect tem's market positioning and customer portfolio.",
     "ai_reasoning": "This is general industry background reading about renewable energy sector trends. No specific mention of tem, competitors, regulation, or market-moving events. Useful for understanding the renewable energy landscape but no immediate action required. Reddit source and informal discussion format reduces weight."
+  },
+  {
+    "url": "https://www.energylivenews.com/2026/04/21/miliband-doubles-down-on-net-zero/",
+    "title": "Miliband doubles down on net zero",
+    "snippet": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://www.energylivenews.com/wp-content/uploads/2020/09/shutterstock_1730743618-150x150.jpg\" width=\"150\" />Labour to announce breaking the link between gas and electricity prices and more renewables push</p>\n<p>The post <a href=\"https://www.energylivenews.com/2026/04/21/miliband-doubles-down-on-net-zero/\">Miliband doubles down on net zero</a> appeared first on <a href=\"https://www.energylivenews.com\">Ene",
+    "source": "Energy Live News",
+    "published": "Tue, 21 Apr 2026 06:29:43 +0000",
+    "fetched_via": "rss_industry",
+    "fetched_at": "2026-04-21T07:50:57.530496+00:00",
+    "relevance_score": 5,
+    "category": "regulatory",
+    "sentiment": "positive",
+    "ai_summary": "Labour government commitment to net zero and renewables expansion sets favourable long-term policy environment for UK renewable energy suppliers like tem, though no immediate operational impact.",
+    "ai_reasoning": "Government-level energy policy is relevant background for tem's market positioning, but this is high-level political messaging with no specific regulatory changes, pricing impacts, or competitive implications announced. Scores as industry context rather than actionable news."
   }
 ]
