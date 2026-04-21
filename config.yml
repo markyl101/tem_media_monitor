@@ -8,8 +8,8 @@ scoring:
   # Below digest_min → store to log only
 
 slack:
-  instant_channel: "#tem-intel-alerts-test"
-  digest_channel: "#tem-intel-digest-test"
+  instant_channel: "#inter-alerts"
+  digest_channel: "#service-content-and-credibility"
 
 keywords:
   brand:
