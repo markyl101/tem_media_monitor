@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "url": "https://www.gov.uk/government/publications/reformed-national-pricing-rnp-delivery-plan",
+    "title": "Reformed National Pricing (RNP): delivery plan",
+    "snippet": "The reforms and their delivery that make up the Reformed National Pricing (RNP) programme, which will replace the Review of Electricity Market Arrangements (REMA).",
+    "source": "GOV.UK / DESNZ",
+    "published": "2026-04-21T10:54:18+01:00",
+    "fetched_via": "regulatory_gov",
+    "fetched_at": "2026-04-21T11:08:38.955836+00:00",
+    "relevance_score": 7,
+    "category": "regulatory",
+    "sentiment": "neutral",
+    "ai_summary": "RNP delivery plan sets out implementation roadmap for major electricity market reforms that will affect wholesale arrangements, network investment, and potentially BSC/Elexon settlement and tem's trading and pricing models.",
+    "ai_reasoning": "Government delivery plan for Reformed National Pricing programme. Essential background reading for understanding timelines and implications of market architecture changes. Slightly lower than consultation (2) because it is the plan/confirmation rather than active engagement opportunity."
+  },
+  {
+    "url": "https://www.gov.uk/government/consultations/electricity-network-infrastructure-consents-land-access-and-rights",
+    "title": "Electricity network infrastructure: consents, land access and rights",
+    "snippet": "We are seeking views on proposed changes to land rights and consents processes for electricity network infrastructure.",
+    "source": "GOV.UK / DESNZ",
+    "published": "2026-04-21T10:45:02+01:00",
+    "fetched_via": "regulatory_gov",
+    "fetched_at": "2026-04-21T11:08:38.955843+00:00",
+    "relevance_score": 5,
+    "category": "regulatory",
+    "sentiment": "neutral",
+    "ai_summary": "Consultation on network infrastructure consents and land rights affects renewable energy project development speed and cost, which indirectly influences generator customer base and renewable capacity available to tem.",
+    "ai_reasoning": "Relevant to enabling renewable generation capacity and speeding up grid connection, which affects tem's generator customer acquisition and wholesale cost environment. Important background but not directly about tem's pricing, regulation of I&C supply, or trading."
+  }
+]

@@ -96,5 +96,61 @@
     "sentiment": "negative",
     "ai_summary": "UK energy costs are driving AI operations overseas, indicating a significant addressable market opportunity for renewable energy suppliers offering competitive pricing to energy-intensive I&C customers.",
     "ai_reasoning": "This is a major industry trend directly relevant to tem's I&C customer base. High energy costs pushing firms away presents both risk and opportunity\u2014renewable PPAs could be a retention/acquisition lever for data centre and AI workload customers."
+  },
+  {
+    "url": "https://www.energylivenews.com/2026/04/21/breaking-the-marginal-price-link-gets-widespread-backing/",
+    "title": "Breaking the marginal price link gets widespread backing",
+    "snippet": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://www.energylivenews.com/wp-content/uploads/2026/03/shutterstock_766451089-150x150.jpg\" width=\"150\" />Energy sector and campaigners back Miliband's vision for cutting prices but worry about affordability and environmental impact</p>\n<p>The post <a href=\"https://www.energylivenews.com/2026/04/21/breaking-the-marginal-price-link-gets-widespread-backing/\">Breaking the marginal price link gets widespread",
+    "source": "Energy Live News",
+    "published": "Tue, 21 Apr 2026 09:30:00 +0000",
+    "fetched_via": "rss_industry",
+    "fetched_at": "2026-04-21T11:07:13.578974+00:00",
+    "relevance_score": 8,
+    "category": "regulatory",
+    "sentiment": "neutral",
+    "ai_summary": "Breaking the marginal price link is a fundamental electricity market reform that could reshape how wholesale prices and customer tariffs are set, directly affecting tem's pricing strategy and competitive positioning.",
+    "ai_reasoning": "This is a major policy shift in electricity pricing architecture championed by DESNZ/government. It has widespread backing and will materially change how tem prices PPAs and interacts with wholesale markets. Warrants close monitoring and potential response."
+  },
+  {
+    "url": "https://www.gov.uk/government/consultations/reformed-national-pricing-reforms-to-siting-and-investment-levers",
+    "title": "Reformed National Pricing: reforms to siting and investment levers",
+    "snippet": "We're seeking views on proposed reforms to the electricity market and their implementation.",
+    "source": "GOV.UK / DESNZ",
+    "published": "2026-04-21T10:55:52+01:00",
+    "fetched_via": "regulatory_gov",
+    "fetched_at": "2026-04-21T11:08:38.955815+00:00",
+    "relevance_score": 8,
+    "category": "regulatory",
+    "sentiment": "neutral",
+    "ai_summary": "Reformed National Pricing consultation on siting and investment reforms is a core DESNZ policy affecting electricity market structure, grid investment, and potentially BSUoS and DNO charges that impact tem's costs and offering.",
+    "ai_reasoning": "Direct DESNZ consultation on market reforms. RNP (successor to REMA) will reshape investment signals and network charging\u2014key levers affecting wholesale costs, network charges, and trading economics that tem must understand and potentially respond to."
+  },
+  {
+    "url": "https://www.gov.uk/government/publications/reformed-national-pricing-rnp-delivery-plan",
+    "title": "Reformed National Pricing (RNP): delivery plan",
+    "snippet": "The reforms and their delivery that make up the Reformed National Pricing (RNP) programme, which will replace the Review of Electricity Market Arrangements (REMA).",
+    "source": "GOV.UK / DESNZ",
+    "published": "2026-04-21T10:54:18+01:00",
+    "fetched_via": "regulatory_gov",
+    "fetched_at": "2026-04-21T11:08:38.955836+00:00",
+    "relevance_score": 7,
+    "category": "regulatory",
+    "sentiment": "neutral",
+    "ai_summary": "RNP delivery plan sets out implementation roadmap for major electricity market reforms that will affect wholesale arrangements, network investment, and potentially BSC/Elexon settlement and tem's trading and pricing models.",
+    "ai_reasoning": "Government delivery plan for Reformed National Pricing programme. Essential background reading for understanding timelines and implications of market architecture changes. Slightly lower than consultation (2) because it is the plan/confirmation rather than active engagement opportunity."
+  },
+  {
+    "url": "https://www.gov.uk/government/consultations/electricity-network-infrastructure-consents-land-access-and-rights",
+    "title": "Electricity network infrastructure: consents, land access and rights",
+    "snippet": "We are seeking views on proposed changes to land rights and consents processes for electricity network infrastructure.",
+    "source": "GOV.UK / DESNZ",
+    "published": "2026-04-21T10:45:02+01:00",
+    "fetched_via": "regulatory_gov",
+    "fetched_at": "2026-04-21T11:08:38.955843+00:00",
+    "relevance_score": 5,
+    "category": "regulatory",
+    "sentiment": "neutral",
+    "ai_summary": "Consultation on network infrastructure consents and land rights affects renewable energy project development speed and cost, which indirectly influences generator customer base and renewable capacity available to tem.",
+    "ai_reasoning": "Relevant to enabling renewable generation capacity and speeding up grid connection, which affects tem's generator customer acquisition and wholesale cost environment. Important background but not directly about tem's pricing, regulation of I&C supply, or trading."
   }
 ]
