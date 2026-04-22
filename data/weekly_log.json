@@ -222,5 +222,19 @@
     "sentiment": "neutral",
     "ai_summary": "Publication of the 2026 Ofgem Review, a formal assessment of whether the regulator is fit for purpose in a changing energy sector. Directly impacts tem's regulatory obligations and market structure.",
     "ai_reasoning": "This is the formal publication of a strategic regulatory review that will shape tem's operating environment. Changes to Ofgem's scope, powers, or focus could affect settlement rules, charging mechanisms, and competitive dynamics. Warrants close monitoring and potential engagement."
+  },
+  {
+    "url": "https://www.reddit.com/r/energy/comments/1sswakx/link_between_gas_and_electricity_prices_uk/",
+    "title": "Link between Gas and Electricity prices UK",
+    "snippet": "This has GOT to be good news. The Epstein War has taught us we need to be energy independent. This will help.\n\n[https://www.theguardian.com/business/2026/apr/16/reeves-break-link-between-gas-cost-and-electricity-prices](https://www.theguardian.com/business/2026/apr/16/reeves-break-link-between-gas-cost-and-electricity-prices)",
+    "source": "r/energy",
+    "published": "2026-04-22T19:52:34.000Z",
+    "fetched_via": "reddit",
+    "fetched_at": "2026-04-22T20:56:11.587936+00:00",
+    "relevance_score": 8,
+    "category": "regulatory",
+    "sentiment": "positive",
+    "ai_summary": "UK government considering decoupling gas and electricity prices, a significant market structure change that could affect wholesale pricing mechanisms and tem's hedging/PPA strategy.",
+    "ai_reasoning": "Breaking the gas-electricity price link is a major policy intervention affecting UK energy market fundamentals. This directly impacts wholesale electricity pricing, customer cost structures, and regulatory framework\u2014all central to tem's business model. Score 8 as a material policy shift requiring strategic attention, though not yet confirmed as law."
   }
 ]
