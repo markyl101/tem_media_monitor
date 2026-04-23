@@ -236,5 +236,19 @@
     "sentiment": "positive",
     "ai_summary": "UK government considering decoupling gas and electricity prices, a significant market structure change that could affect wholesale pricing mechanisms and tem's hedging/PPA strategy.",
     "ai_reasoning": "Breaking the gas-electricity price link is a major policy intervention affecting UK energy market fundamentals. This directly impacts wholesale electricity pricing, customer cost structures, and regulatory framework\u2014all central to tem's business model. Score 8 as a material policy shift requiring strategic attention, though not yet confirmed as law."
+  },
+  {
+    "url": "https://www.reddit.com/r/energy/comments/1stqqdr/power_isnt_just_a_utility_anymore_its_a_business/",
+    "title": "Power Isn't Just a Utility Anymore -It's a Business Risk",
+    "snippet": "Power isn\u2019t just a utility anymore\u2014it\u2019s becoming a liability.  \n  \nBetween rate hikes and outages, it feels like businesses are stuck paying more for something they have less control over.  \n  \nI\u2019ve been looking into alternatives and came across what dGen Energy Partners is doing with Mainspring Linear Generators.  \n  \nFrom what I\u2019m seeing, it\u2019s basically on-site power generation at a more predictable cost (they\u2019re quoting roughly 9\u201316\u00a2/kWh), with the ability to stay connected to the grid or ope",
+    "source": "r/energy",
+    "published": "2026-04-23T18:13:45.000Z",
+    "fetched_via": "reddit",
+    "fetched_at": "2026-04-23T19:08:51.111008+00:00",
+    "relevance_score": 5,
+    "category": "industry",
+    "sentiment": "neutral",
+    "ai_summary": "General discussion of business energy cost management and alternatives, reflecting market pain points that drive demand for renewable suppliers like tem. No specific competitor or regulatory trigger.",
+    "ai_reasoning": "This is background industry sentiment about businesses seeking alternatives to traditional utility power due to cost and reliability concerns. It touches on tem's addressable market (I&C customers seeking control over energy), but is generic Reddit discussion without specific regulatory, competitive, or brand relevance. Score 5 as worth understanding market attitudes, but no immediate action needed."
   }
 ]
