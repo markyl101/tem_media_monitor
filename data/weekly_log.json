@@ -40,5 +40,47 @@
     "sentiment": "positive",
     "ai_summary": "Government messaging on renewable energy boosting national security and energy resilience supports the broader policy environment for tem's renewable energy business.",
     "ai_reasoning": "Background reading on supportive policy sentiment. No immediate commercial impact, but reinforces the political backdrop favouring renewables suppliers. Useful for context but no action required this week."
+  },
+  {
+    "url": "https://www.drax.com/opinion/the-uks-energy-trilemma-requires-more-than-price-reform/",
+    "title": "The UK\u2019s energy trilemma requires more than price reform",
+    "snippet": "<p>This article first appeared in Energy Voice.\u00a0 The\u00a0UK Government\u2019s move\u00a0to explore breaking the link between gas and electricity prices reflects a growing recognition that the current system is exposing consumers and businesses to unnecessary volatility.\u00a0While reducing exposure to gas-driven pricing is\u00a0an important step, it will not\u00a0single-handedly\u00a0remove the UK\u2019s vulnerability to global markets if the system\u00a0remains\u00a0unbalanced.\u00a0<a class=\"excerpt-read-more\" href=\"https://www.drax.com/opinion/t",
+    "source": "Drax",
+    "published": "Mon, 27 Apr 2026 14:00:29 +0000",
+    "fetched_via": "rss_competitors",
+    "fetched_at": "2026-04-27T15:49:07.985662+00:00",
+    "relevance_score": 8,
+    "category": "competitor",
+    "sentiment": "neutral",
+    "ai_summary": "Drax publishes opinion on UK energy market reform and gas-electricity price decoupling, a key policy issue affecting wholesale pricing and market structure for I&C suppliers like tem.",
+    "ai_reasoning": "Drax is a named competitor and this addresses fundamental market structure changes (gas-electricity linkage) that directly impact tem's wholesale procurement, pricing, and strategy. Requires monitoring of Drax's positioning on policy reform."
+  },
+  {
+    "url": "https://www.reddit.com/r/energy/comments/1sx4vim/why_renewables_can_have_a_35_mwh_levelized_cost/",
+    "title": "Why renewables can have a 35 \u20ac/MWh levelized cost and still leave you with a 200 \u20ac/MWh bill: a walk through four different cost metrics",
+    "snippet": "How much does electricity cost? It seems like a simple question, but in practice it actually involves at least four different questions, and the answer you get depends entirely on which one you\u2019re really asking. Every couple of months you hear: \"renewables now produce the cheapest electricity in history.\" And then, often the same week, the opposite one: \"renewables are driving up European electricity costs.\" Both can actually cite real reports. Both can be technically correct. And both can be mi",
+    "source": "r/energy",
+    "published": "2026-04-27T14:11:46.000Z",
+    "fetched_via": "reddit",
+    "fetched_at": "2026-04-27T15:49:43.633485+00:00",
+    "relevance_score": 6,
+    "category": "white_paper",
+    "sentiment": "neutral",
+    "ai_summary": "Technical analysis of levelized cost of electricity (LCOE) vs. end-user pricing for renewables; explains cost structure complexity relevant to tem's customer education and pricing models.",
+    "ai_reasoning": "Educational content on wholesale vs. retail pricing metrics and renewable economics. Useful background for tem's sales and customer communication about total cost of ownership, though not an immediate action item."
+  },
+  {
+    "url": "https://www.reddit.com/r/energy/comments/1sx5obw/renewable_energy_will_boost_national_security_and/",
+    "title": "Renewable energy will boost national security and protect UK from sabotage, minister says",
+    "snippet": "Images:\n\thttps://external-preview.redd.it/4ojqe6vK5Nnsxs6zg7syS575ax68cM_81n5LYa-uvWs.jpeg?auto=webp&amp;s=d73a620e16e962e78509384c6b0a0c9be9da6a32\n",
+    "source": "r/energy",
+    "published": "2026-04-27T14:40:07.000Z",
+    "fetched_via": "reddit",
+    "fetched_at": "2026-04-27T15:49:43.633481+00:00",
+    "relevance_score": 5,
+    "category": "industry",
+    "sentiment": "positive",
+    "ai_summary": "UK government messaging on renewable energy's role in national security; background context for renewable energy industry support.",
+    "ai_reasoning": "Positive policy backdrop for renewables sector but lacks specifics on regulation, market mechanisms, or tem's competitive positioning. Worth tracking as general industry sentiment and government support signal."
   }
 ]
