@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPclhJTG5oYlpJVk9aQ1dnbldBVGxwN2g1c1dabXRrWmJWeVRlNlVnZzM4RDZkN0VpLVFlREpGOVRWTVVRaUY5OUNqMktxZ1JsN19QckkyXzBEMXhKWEs5R25xTWpnTUY4bW1BM2ZJc2o1a0pDVWRSNm1oQldqUDk4ZFZ4RnlueWJnQ3BwMVpIOEphVFZMeTRhUDBaWGU0dW5Td3drQ2RDOENXYjl6dmpQUHV1VjN1SGgzc3hSZEZEQVZfeHc?oc=5",
+    "title": "SmartestEnergy and AGR sign CfD-backed PPAs for four solar and storage projects - Solar Power Portal",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPclhJTG5oYlpJVk9aQ1dnbldBVGxwN2g1c1dabXRrWmJWeVRlNlVnZzM4RDZkN0VpLVFlREpGOVRWTVVRaUY5OUNqMktxZ1JsN19QckkyXzBEMXhKWEs5R25xTWpnTUY4bW1BM2ZJc2o1a0pDVWRSNm1oQldqUDk4ZFZ4RnlueWJnQ3BwMVpIOEphVFZMeTRhUDBaWGU0dW5Td3drQ2RDOENXYjl6dmpQUHV1VjN1SGgzc3hSZEZEQVZfeHc?oc=5\" target=\"_blank\">SmartestEnergy and AGR sign CfD-backed PPAs for four solar and storage projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Solar Power Portal</font>",
+    "source": "Solar Power Portal",
+    "published": "Mon, 27 Apr 2026 13:14:17 GMT",
+    "fetched_via": "google_news",
+    "fetched_at": "2026-04-27T13:53:24.336015+00:00",
+    "relevance_score": 8,
+    "category": "competitor",
+    "sentiment": "neutral",
+    "ai_summary": "SmartestEnergy has secured CfD-backed PPAs for solar and storage projects, demonstrating competitor strength in the PPA market where tem also competes.",
+    "ai_reasoning": "SmartestEnergy is a direct competitor. This shows their activity in securing PPAs for renewable generators\u2014a core tem market. The deal size and CfD backing suggest competitive pressure in the renewables offtake space."
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSUlheUlvcGQxZ09kU1NVb1VpZGE3dU85SzF1Tm84YzFtRl92dmpwUFE2ODZ4ajFfbFlPS2ZhVTAxcHJtanF2WXJTQXU0YlRiYm15X01RVTZPajQ5R0ZVbGNZbGl6S1U2dC1nN1A4c0ZyaVRacVNidHkzZ2QtaXV6TUlyX3lOelZYUDJiLXAxMVV0eEJBS3hDaEtycjRCNDEzVUpsWllvbU1kNzhC?oc=5",
+    "title": "AGR picks SmartestEnergy to run market access for 192 MW of UK solar - Renewables Now",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPSUlheUlvcGQxZ09kU1NVb1VpZGE3dU85SzF1Tm84YzFtRl92dmpwUFE2ODZ4ajFfbFlPS2ZhVTAxcHJtanF2WXJTQXU0YlRiYm15X01RVTZPajQ5R0ZVbGNZbGl6S1U2dC1nN1A4c0ZyaVRacVNidHkzZ2QtaXV6TUlyX3lOelZYUDJiLXAxMVV0eEJBS3hDaEtycjRCNDEzVUpsWllvbU1kNzhC?oc=5\" target=\"_blank\">AGR picks SmartestEnergy to run market access for 192 MW of UK solar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Renewables Now</font>",
+    "source": "Renewables Now",
+    "published": "Mon, 27 Apr 2026 12:06:08 GMT",
+    "fetched_via": "google_news",
+    "fetched_at": "2026-04-27T13:53:24.336021+00:00",
+    "relevance_score": 8,
+    "category": "competitor",
+    "sentiment": "neutral",
+    "ai_summary": "SmartestEnergy appointed as market access provider for 192 MW of solar, indicating continued competitor strength in serving generators.",
+    "ai_reasoning": "Direct evidence of a competitor winning a significant generator mandate (192 MW). This is tem's core market segment. The appointment shows SmartestEnergy's capability to attract and retain generator clients."
+  },
+  {
+    "url": "https://www.reddit.com/r/energy/comments/1sx2xvc/renewable_energy_will_boost_national_security_and/",
+    "title": "Renewable energy will boost national security and protect UK from sabotage, minister says | Renewable energy",
+    "snippet": "Images:\n\thttps://external-preview.redd.it/4ojqe6vK5Nnsxs6zg7syS575ax68cM_81n5LYa-uvWs.jpeg?auto=webp&amp;s=d73a620e16e962e78509384c6b0a0c9be9da6a32\n",
+    "source": "r/energy",
+    "published": "2026-04-27T12:58:50.000Z",
+    "fetched_via": "reddit",
+    "fetched_at": "2026-04-27T13:55:07.159701+00:00",
+    "relevance_score": 5,
+    "category": "industry",
+    "sentiment": "positive",
+    "ai_summary": "Government messaging on renewable energy boosting national security and energy resilience supports the broader policy environment for tem's renewable energy business.",
+    "ai_reasoning": "Background reading on supportive policy sentiment. No immediate commercial impact, but reinforces the political backdrop favouring renewables suppliers. Useful for context but no action required this week."
+  }
+]
