@@ -82,5 +82,19 @@
     "sentiment": "positive",
     "ai_summary": "UK government messaging on renewable energy's role in national security; background context for renewable energy industry support.",
     "ai_reasoning": "Positive policy backdrop for renewables sector but lacks specifics on regulation, market mechanisms, or tem's competitive positioning. Worth tracking as general industry sentiment and government support signal."
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZjVIdWhIQUlJOUY2clE4aTA4NHhsaWNjSXpaRnNLYk14NHhzTjJBaXdKczcwUmxmMngta0tVVmw3d3lRODVUM3hVMVYxUTh4ejBVVzBxdkFuOXJMem8tdXNzZXRydVl2UzE1ZE5NNGgtZHJ0dWpXakxha0J2Q3FBVlFkRS1yR2dJemdTRGd3YVNNMmJMajlma05TbGhwVDl5dlNVQ25OTlB2T0dKd0N0Vw?oc=5",
+    "title": "SmartestEnergy signs 192 MW UK solar PPAs with AGR Renewables - Solarbytes",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNZjVIdWhIQUlJOUY2clE4aTA4NHhsaWNjSXpaRnNLYk14NHhzTjJBaXdKczcwUmxmMngta0tVVmw3d3lRODVUM3hVMVYxUTh4ejBVVzBxdkFuOXJMem8tdXNzZXRydVl2UzE1ZE5NNGgtZHJ0dWpXakxha0J2Q3FBVlFkRS1yR2dJemdTRGd3YVNNMmJMajlma05TbGhwVDl5dlNVQ25OTlB2T0dKd0N0Vw?oc=5\" target=\"_blank\">SmartestEnergy signs 192 MW UK solar PPAs with AGR Renewables</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Solarbytes</font>",
+    "source": "Solarbytes",
+    "published": "Tue, 28 Apr 2026 07:53:07 GMT",
+    "fetched_via": "google_news",
+    "fetched_at": "2026-04-28T09:21:22.847593+00:00",
+    "relevance_score": 8,
+    "category": "competitor",
+    "sentiment": "neutral",
+    "ai_summary": "SmartestEnergy, a direct competitor to tem, has secured a major 192 MW solar PPA with AGR Renewables. This demonstrates competitive activity in the I&C renewable energy PPA market that tem operates in.",
+    "ai_reasoning": "SmartestEnergy is explicitly listed as a tem competitor. A 192 MW PPA deal is material market activity in tem's core space (PPAs with renewable generators). Scores 8 rather than higher because it doesn't directly affect tem's operations, but it's significant enough to monitor and potentially inform competitive positioning."
   }
 ]
