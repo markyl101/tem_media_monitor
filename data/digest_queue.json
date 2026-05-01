@@ -1,16 +1,1 @@
-[
-  {
-    "url": "https://www.reddit.com/r/energy/comments/1szz260/those_batteries_will_charge_during_offpeak/",
-    "title": "Those batteries will charge during off-peak electricity times, when power is cheap. When energy demand increases and power prices go up, the batteries will discharge, keeping the freezers running and lights on while cutting the business\u2019s utility costs.",
-    "snippet": "Thumbnail: default\n",
-    "source": "r/energy",
-    "published": "2026-04-30T15:16:42.000Z",
-    "fetched_via": "reddit",
-    "fetched_at": "2026-04-30T15:51:40.688155+00:00",
-    "relevance_score": 5,
-    "category": "industry",
-    "sentiment": "positive",
-    "ai_summary": "Battery storage used for arbitrage (charging at off-peak, discharging at peak) to reduce business utility costs; relevant to tem's I&C customer base and flexibility services.",
-    "ai_reasoning": "This describes a flex/load-shifting strategy that aligns with tem's interest in half-hourly settlement and demand-side flexibility offerings. It's background reading on customer use cases and market trends, but no specific competitor, regulatory, or product change mentioned. Moderate relevance as market trend awareness."
-  }
-]
+[]
