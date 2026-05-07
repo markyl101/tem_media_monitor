@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "url": "https://www.utilitydive.com/news/edp-renewables-and-meta-ink-ppa-for-250-mw-solar-project/819619/",
+    "title": "EDP Renewables and Meta ink PPA for 250-MW solar project",
+    "snippet": "<figure><div><img src=\"https://imgproxy.divecdn.com/eNswojKKphSjP46UiGqvLlPnJC0Uh8uaYhH4qj0Pt7c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjAxOTI2ODcwLmpwZw==.webp\" /></div></figure><p>This is the third such deal between EDP Renewables and Meta, bringing the total procured energy between the two companies to 545 MW.</p>",
+    "source": "Utility Dive",
+    "published": "Thu, 07 May 2026 13:11:52 -0400",
+    "fetched_via": "rss_industry",
+    "fetched_at": "2026-05-07T18:24:29.324851+00:00",
+    "relevance_score": 5,
+    "category": "industry",
+    "sentiment": "neutral",
+    "ai_summary": "Large corporate PPA activity demonstrates continued demand for renewable energy offtake agreements in the market tem operates, but this specific deal does not directly impact tem's competitive position or operations.",
+    "ai_reasoning": "This is a PPA announcement between a major generator (EDP Renewables) and a tech corporate (Meta). It's background reading on market trends and PPA market activity, relevant to understanding the competitive landscape tem operates in, but no direct mention of tem, competitors, or regulatory changes. Score 5: worth knowing as market context."
+  }
+]
