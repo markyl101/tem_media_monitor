@@ -12,5 +12,19 @@
     "sentiment": "neutral",
     "ai_summary": "Large corporate PPA activity demonstrates continued demand for renewable energy offtake agreements in the market tem operates, but this specific deal does not directly impact tem's competitive position or operations.",
     "ai_reasoning": "This is a PPA announcement between a major generator (EDP Renewables) and a tech corporate (Meta). It's background reading on market trends and PPA market activity, relevant to understanding the competitive landscape tem operates in, but no direct mention of tem, competitors, or regulatory changes. Score 5: worth knowing as market context."
+  },
+  {
+    "url": "https://www.reddit.com/r/energy/comments/1t7qajw/roundtheclock_renewables_new_report_says_clean/",
+    "title": "Round-the-clock renewables: New report says clean energy now challenges fossil fuels on price",
+    "snippet": "Thumbnail: default\n",
+    "source": "r/energy",
+    "published": "2026-05-09T01:00:28.000Z",
+    "fetched_via": "reddit",
+    "fetched_at": "2026-05-09T02:55:26.657487+00:00",
+    "relevance_score": 5,
+    "category": "industry",
+    "sentiment": "positive",
+    "ai_summary": "Report on renewables cost competitiveness against fossil fuels supports the market case for tem's core business, but provides no specific actionable intelligence or market-moving developments.",
+    "ai_reasoning": "General industry trend piece about renewable energy economics. Relevant context for tem's market positioning but no direct business impact, competitor activity, regulatory change, or brand mention. Background reading material worthy of awareness but requiring no immediate action."
   }
 ]
