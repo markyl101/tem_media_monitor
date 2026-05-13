@@ -26,5 +26,19 @@
     "sentiment": "neutral",
     "ai_summary": "Discussion of transmission infrastructure as a constraint on renewable energy growth is relevant context for tem's I&C generator customers and their ability to export power, but no direct business impact.",
     "ai_reasoning": "General industry background on renewable integration challenges. Useful for understanding the broader market dynamics affecting tem's generator customers, but no immediate action or policy change involved. Scored as background reading."
+  },
+  {
+    "url": "https://www.gov.uk/government/consultations/tariff-interoperability",
+    "title": "Tariff Interoperability",
+    "snippet": "We are seeking views on standardising how suppliers make tariff pricing data available to help support consumer-led flexibility.",
+    "source": "GOV.UK / DESNZ",
+    "published": "2026-05-13T15:34:50+01:00",
+    "fetched_via": "regulatory_gov",
+    "fetched_at": "2026-05-13T15:45:36.093327+00:00",
+    "relevance_score": 8,
+    "category": "regulatory",
+    "sentiment": "neutral",
+    "ai_summary": "DESNZ consultation on standardising tariff pricing data to support consumer-led flexibility, which could affect how B2B suppliers like tem expose pricing and flexibility products to the market.",
+    "ai_reasoning": "Direct DESNZ consultation relevant to UK energy market. Tariff data standardisation and demand-side flexibility are material to tem's B2B offerings and how I&C customers engage with pricing. Requires monitoring for potential compliance and product implications."
   }
 ]
