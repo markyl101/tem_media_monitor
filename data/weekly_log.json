@@ -40,5 +40,19 @@
     "sentiment": "neutral",
     "ai_summary": "DESNZ consultation on standardising tariff pricing data to support consumer-led flexibility, which could affect how B2B suppliers like tem expose pricing and flexibility products to the market.",
     "ai_reasoning": "Direct DESNZ consultation relevant to UK energy market. Tariff data standardisation and demand-side flexibility are material to tem's B2B offerings and how I&C customers engage with pricing. Requires monitoring for potential compliance and product implications."
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOWphWm5zVlpha1hQN3hLRmRHSVJHLVdtX1daZm1jRUluVHVySFRDem1hcHpvWTBPSW80UlE3NDAzQkV6bkdYanlaVlEzdFhLbTNkSGs2Q0lsc2hSZlpKUVYyOXE2RVdmZGdyQ0RPWHNjVFFEMVFHUzNNbHJHMFRjR1JKbDRXaTFZV1RURXI2UV_SAZYBQVVfeXFMUEV3Q2poczBOa1JLNmlKXy0yVlJXcENlVjloWmpmWDFvY0doN2NSOGJMTXR2QjFMMWRfR2xvZ0VsaEFpUl9kS1ZINUdHa0cyNjJ2c1ZrdGUxQUNZSW1UWG5aWkpKVWdKaU9tcmp0WEhpMUd5NDJ4eUtoYXZhYmt4SklXSHZRTGxsNXR6ZlhTREJuNkR1TUlR?oc=5",
+    "title": "Caerphilly Council sells solar farm to Fuse Energy - Business Live",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOOWphWm5zVlpha1hQN3hLRmRHSVJHLVdtX1daZm1jRUluVHVySFRDem1hcHpvWTBPSW80UlE3NDAzQkV6bkdYanlaVlEzdFhLbTNkSGs2Q0lsc2hSZlpKUVYyOXE2RVdmZGdyQ0RPWHNjVFFEMVFHUzNNbHJHMFRjR1JKbDRXaTFZV1RURXI2UV_SAZYBQVVfeXFMUEV3Q2poczBOa1JLNmlKXy0yVlJXcENlVjloWmpmWDFvY0doN2NSOGJMTXR2QjFMMWRfR2xvZ0VsaEFpUl9kS1ZINUdHa0cyNjJ2c1ZrdGUxQUNZSW1UWG5aWkpKVWdKaU9tcmp0WEhpMUd5NDJ4eUtoYXZhYmt4SklXSHZRTGxsNXR6ZlhTREJuNkR1TUlR?oc=5\" target=\"_blank\">Caerphilly Council sells solar farm to Fuse Energy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Live</font>",
+    "source": "Business Live",
+    "published": "Thu, 14 May 2026 07:11:00 GMT",
+    "fetched_via": "google_news",
+    "fetched_at": "2026-05-14T07:41:11.896575+00:00",
+    "relevance_score": 6,
+    "category": "competitor",
+    "sentiment": "neutral",
+    "ai_summary": "Fuse Energy has acquired a solar farm asset from Caerphilly Council, indicating competitive expansion in the generator/asset ownership space where tem operates.",
+    "ai_reasoning": "Fuse Energy is a named competitor in tem's I&C renewable space. Asset acquisition by competitors signals market movement and potential competitive pressure in generator relationships. Score of 6 (not 8) because this is a single asset deal rather than a major strategic shift or product launch, and no direct impact on tem's operations is evident from the snippet."
   }
 ]
