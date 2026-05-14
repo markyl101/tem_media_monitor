@@ -110,5 +110,19 @@
     "sentiment": "neutral",
     "ai_summary": "Fuse Energy, a named competitor, has acquired a 20MW solar farm asset to supply power and provide grid flexibility services. This demonstrates competitor asset consolidation in the generation-to-supply value chain.",
     "ai_reasoning": "Fuse Energy is a direct competitor in the I&C renewable energy supply space. However, this is a single acquisition announcement without broader market implications or pricing/product changes that would require immediate response. Worth monitoring for competitive landscape awareness."
+  },
+  {
+    "url": "https://www.drax.com/opinion/how-biomass-delivers-system-stability-in-an-uncertain-energy-landscape/",
+    "title": "How biomass delivers system stability in an uncertain energy landscape",
+    "snippet": "<p>As geopolitical shocks reshape energy priorities and AI drives unprecedented power demand, Drax\u2019s Chief Sustainability Officer Ross McKenzie explains why dispatchable renewables are essential to grid resilience.</p>\n<p>The post <a href=\"https://www.drax.com/opinion/how-biomass-delivers-system-stability-in-an-uncertain-energy-landscape/\">How biomass delivers system stability in an uncertain energy landscape</a> appeared first on <a href=\"https://www.drax.com\">Drax Global</a>.</p>",
+    "source": "Drax",
+    "published": "Thu, 14 May 2026 10:50:13 +0000",
+    "fetched_via": "rss_competitors",
+    "fetched_at": "2026-05-14T12:24:48.488590+00:00",
+    "relevance_score": 5,
+    "category": "competitor",
+    "sentiment": "neutral",
+    "ai_summary": "Drax positions biomass as a key dispatchable renewable asset for grid stability amid rising AI power demand. Relevant context for understanding competitor positioning and market narrative around renewable generation types.",
+    "ai_reasoning": "Drax is a named competitor and this is thought leadership content on renewable generation and grid services. However, it's opinion/marketing rather than a product launch, regulatory change, or market-moving event. Worth monitoring competitor narrative but no immediate action required. Scores 5 for background understanding of competitive landscape."
   }
 ]
