@@ -12,5 +12,19 @@
     "sentiment": "neutral",
     "ai_summary": "Drax positions biomass as a key dispatchable renewable asset for grid stability amid rising AI power demand. Relevant context for understanding competitor positioning and market narrative around renewable generation types.",
     "ai_reasoning": "Drax is a named competitor and this is thought leadership content on renewable generation and grid services. However, it's opinion/marketing rather than a product launch, regulatory change, or market-moving event. Worth monitoring competitor narrative but no immediate action required. Scores 5 for background understanding of competitive landscape."
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNEdnbUhyb2M4Vmt2S283QW1GSC1XV25JY0Q4RjhhTGRsOVR4aURPaG95OEdGMlUxUGJWb05KWkFXbVcyUU44bUdWamF2aWdKSU55T3hnSjJsbG1pRmNsSXN1b3lqTDdtdFk0elZwTkdRdThCNTl6TUd2QmlZYzFmTUdva0I5SzJDUlFMalZ3eUo4UzRpemVpbkE5MW05c2l5emI0N2tPaGRXZWR4?oc=5",
+    "title": "Fuse Energy acquires 20 MW Wales solar farm - Solarbytes",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPNEdnbUhyb2M4Vmt2S283QW1GSC1XV25JY0Q4RjhhTGRsOVR4aURPaG95OEdGMlUxUGJWb05KWkFXbVcyUU44bUdWamF2aWdKSU55T3hnSjJsbG1pRmNsSXN1b3lqTDdtdFk0elZwTkdRdThCNTl6TUd2QmlZYzFmTUdva0I5SzJDUlFMalZ3eUo4UzRpemVpbkE5MW05c2l5emI0N2tPaGRXZWR4?oc=5\" target=\"_blank\">Fuse Energy acquires 20 MW Wales solar farm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Solarbytes</font>",
+    "source": "Solarbytes",
+    "published": "Thu, 14 May 2026 16:16:52 GMT",
+    "fetched_via": "google_news",
+    "fetched_at": "2026-05-14T17:49:25.460932+00:00",
+    "relevance_score": 5,
+    "category": "competitor",
+    "sentiment": "neutral",
+    "ai_summary": "Fuse Energy, a named competitor in tem's I&C renewable space, has acquired a 20 MW solar farm in Wales, expanding its generation asset base and potentially its PPA offerings.",
+    "ai_reasoning": "Fuse Energy is a direct competitor to tem in the I&C renewable energy market. While this acquisition shows competitive activity and market consolidation, it is not tem-specific news and does not represent an immediate threat requiring response this week. Background awareness of competitor expansion is useful but not urgent."
   }
 ]

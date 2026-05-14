@@ -138,5 +138,19 @@
     "sentiment": "neutral",
     "ai_summary": "Elexon reports that over 25% of UK electricity meters have migrated to half-hourly settlement (MHHS). This is a key industry transition that directly affects how tem settles customer accounts and manages wholesale exposure.",
     "ai_reasoning": "MHHS is a core topic for tem's business model and regulatory environment. This milestone represents significant market shift that impacts tem's operational strategy, customer management, and trading considerations. Requires awareness of ongoing rollout pace."
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNEdnbUhyb2M4Vmt2S283QW1GSC1XV25JY0Q4RjhhTGRsOVR4aURPaG95OEdGMlUxUGJWb05KWkFXbVcyUU44bUdWamF2aWdKSU55T3hnSjJsbG1pRmNsSXN1b3lqTDdtdFk0elZwTkdRdThCNTl6TUd2QmlZYzFmTUdva0I5SzJDUlFMalZ3eUo4UzRpemVpbkE5MW05c2l5emI0N2tPaGRXZWR4?oc=5",
+    "title": "Fuse Energy acquires 20 MW Wales solar farm - Solarbytes",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPNEdnbUhyb2M4Vmt2S283QW1GSC1XV25JY0Q4RjhhTGRsOVR4aURPaG95OEdGMlUxUGJWb05KWkFXbVcyUU44bUdWamF2aWdKSU55T3hnSjJsbG1pRmNsSXN1b3lqTDdtdFk0elZwTkdRdThCNTl6TUd2QmlZYzFmTUdva0I5SzJDUlFMalZ3eUo4UzRpemVpbkE5MW05c2l5emI0N2tPaGRXZWR4?oc=5\" target=\"_blank\">Fuse Energy acquires 20 MW Wales solar farm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Solarbytes</font>",
+    "source": "Solarbytes",
+    "published": "Thu, 14 May 2026 16:16:52 GMT",
+    "fetched_via": "google_news",
+    "fetched_at": "2026-05-14T17:49:25.460932+00:00",
+    "relevance_score": 5,
+    "category": "competitor",
+    "sentiment": "neutral",
+    "ai_summary": "Fuse Energy, a named competitor in tem's I&C renewable space, has acquired a 20 MW solar farm in Wales, expanding its generation asset base and potentially its PPA offerings.",
+    "ai_reasoning": "Fuse Energy is a direct competitor to tem in the I&C renewable energy market. While this acquisition shows competitive activity and market consolidation, it is not tem-specific news and does not represent an immediate threat requiring response this week. Background awareness of competitor expansion is useful but not urgent."
   }
 ]
