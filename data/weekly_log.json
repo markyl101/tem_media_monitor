@@ -124,5 +124,19 @@
     "sentiment": "neutral",
     "ai_summary": "Drax positions biomass as a key dispatchable renewable asset for grid stability amid rising AI power demand. Relevant context for understanding competitor positioning and market narrative around renewable generation types.",
     "ai_reasoning": "Drax is a named competitor and this is thought leadership content on renewable generation and grid services. However, it's opinion/marketing rather than a product launch, regulatory change, or market-moving event. Worth monitoring competitor narrative but no immediate action required. Scores 5 for background understanding of competitive landscape."
+  },
+  {
+    "url": "https://www.elexon.co.uk/2026/05/14/over-a-quarter-of-all-electricity-meters-in-britain-have-now-moved-to-half-hourly-settlement/?utm_source=rss&utm_medium=rss&utm_campaign=over-a-quarter-of-all-electricity-meters-in-britain-have-now-moved-to-half-hourly-settlement",
+    "title": "Over a quarter of all electricity meters in Britain have now moved to half-hourly settlement",
+    "snippet": "<p>More\u00a0than\u00a08.4\u00a0million meters have now been migrated to...</p>\n<p>The post <a href=\"https://www.elexon.co.uk/2026/05/14/over-a-quarter-of-all-electricity-meters-in-britain-have-now-moved-to-half-hourly-settlement/\">Over a quarter of all electricity meters in Britain have now moved to half-hourly settlement</a> appeared first on <a href=\"https://www.elexon.co.uk\">Elexon</a>.</p>",
+    "source": "Elexon",
+    "published": "Thu, 14 May 2026 13:49:02 +0000",
+    "fetched_via": "rss_regulatory",
+    "fetched_at": "2026-05-14T15:18:39.829818+00:00",
+    "relevance_score": 8,
+    "category": "regulatory",
+    "sentiment": "neutral",
+    "ai_summary": "Elexon reports that over 25% of UK electricity meters have migrated to half-hourly settlement (MHHS). This is a key industry transition that directly affects how tem settles customer accounts and manages wholesale exposure.",
+    "ai_reasoning": "MHHS is a core topic for tem's business model and regulatory environment. This milestone represents significant market shift that impacts tem's operational strategy, customer management, and trading considerations. Requires awareness of ongoing rollout pace."
   }
 ]
