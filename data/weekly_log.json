@@ -166,5 +166,19 @@
     "sentiment": "neutral",
     "ai_summary": "Fuse Energy, a direct competitor in the I&C renewable energy space, has acquired a 20MW solar farm. This signals competitive expansion into generation assets and portfolio growth.",
     "ai_reasoning": "Fuse Energy is a named competitor, but this is a routine asset acquisition announcement rather than a strategic product launch or market event requiring immediate response. Useful background intelligence on competitor positioning but no immediate action needed this week."
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLW55U25LOUxuQTBocFlDRHZseXBiSXFRbC1ZdWNuamwtQ3pZOVM1cHN2c2FtVS1uVGZicWNhMHRzT0NDN3gwd1ZIUDFta3Z0M2t5bGpmMnUzWk0zRE1lTzY2QVNjVmhMU044REViUzgzeWJZZkphUFJfbDVKMjF0RmNSTVY5OXZfZDVNczVNS1FMY1ItNFI1cUVmSXVkd24zbFE2OTB3?oc=5",
+    "title": "Bute Energy seals 93-MW route-to-market PPA with SmartestEnergy - Renewables Now",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQLW55U25LOUxuQTBocFlDRHZseXBiSXFRbC1ZdWNuamwtQ3pZOVM1cHN2c2FtVS1uVGZicWNhMHRzT0NDN3gwd1ZIUDFta3Z0M2t5bGpmMnUzWk0zRE1lTzY2QVNjVmhMU044REViUzgzeWJZZkphUFJfbDVKMjF0RmNSTVY5OXZfZDVNczVNS1FMY1ItNFI1cUVmSXVkd24zbFE2OTB3?oc=5\" target=\"_blank\">Bute Energy seals 93-MW route-to-market PPA with SmartestEnergy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Renewables Now</font>",
+    "source": "Renewables Now",
+    "published": "Fri, 15 May 2026 07:36:00 GMT",
+    "fetched_via": "google_news",
+    "fetched_at": "2026-05-15T07:51:15.225363+00:00",
+    "relevance_score": 8,
+    "category": "competitor",
+    "sentiment": "neutral",
+    "ai_summary": "SmartestEnergy, a direct competitor, has secured a significant 93-MW PPA with Bute Energy, demonstrating their strength in the route-to-market space and generator relationships that tem also targets.",
+    "ai_reasoning": "SmartestEnergy is a named competitor in tem's I&C renewable energy market. A 93-MW PPA win is material news about competitor capability and market positioning. This is the kind of competitive win that should inform tem's market strategy and pitch positioning, warranting close attention."
   }
 ]
