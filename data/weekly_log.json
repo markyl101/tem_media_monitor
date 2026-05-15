@@ -180,5 +180,19 @@
     "sentiment": "neutral",
     "ai_summary": "SmartestEnergy, a direct competitor, has secured a significant 93-MW PPA with Bute Energy, demonstrating their strength in the route-to-market space and generator relationships that tem also targets.",
     "ai_reasoning": "SmartestEnergy is a named competitor in tem's I&C renewable energy market. A 93-MW PPA win is material news about competitor capability and market positioning. This is the kind of competitive win that should inform tem's market strategy and pitch positioning, warranting close attention."
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcERJUUR0ZmhKTmdxRjJwSmFKNXNXNFI5UGpWUzJOVEE3SHIyaVBDaDdCR3A5S1dSZFQ2TUlVaG81Q2tpLUd6Smh4d3h0QTdfZDBfblVjWVpQSEZNbWNRa1RERTZ1dm9FVS1Nb1kzZGhqUGNnZW9jZS1DdmFtbnp3TlgzQ0xxd3pCYUZHdUxxd2NNMlMtbUN6bzc3ZVljNE1yUlVRbml6Z19MblZQWXBYUzhNZDJUbjhl?oc=5",
+    "title": "Over a quarter of all electricity meters in Britain have now moved to half-hourly settlement - theenergyst.com",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcERJUUR0ZmhKTmdxRjJwSmFKNXNXNFI5UGpWUzJOVEE3SHIyaVBDaDdCR3A5S1dSZFQ2TUlVaG81Q2tpLUd6Smh4d3h0QTdfZDBfblVjWVpQSEZNbWNRa1RERTZ1dm9FVS1Nb1kzZGhqUGNnZW9jZS1DdmFtbnp3TlgzQ0xxd3pCYUZHdUxxd2NNMlMtbUN6bzc3ZVljNE1yUlVRbml6Z19MblZQWXBYUzhNZDJUbjhl?oc=5\" target=\"_blank\">Over a quarter of all electricity meters in Britain have now moved to half-hourly settlement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">theenergyst.com</font>",
+    "source": "theenergyst.com",
+    "published": "Fri, 15 May 2026 09:37:20 GMT",
+    "fetched_via": "google_news",
+    "fetched_at": "2026-05-15T10:23:04.800140+00:00",
+    "relevance_score": 8,
+    "category": "regulatory",
+    "sentiment": "neutral",
+    "ai_summary": "Half-hourly settlement (MHHS) rollout now covers >25% of UK meters\u2014a critical regulatory shift that directly affects tem's billing systems, customer offerings, and competitive positioning in the I&C market.",
+    "ai_reasoning": "MHHS is a foundational change to UK electricity settlement infrastructure that tem must operate within. This milestone indicates accelerating adoption and signals pressure on non-compliant suppliers. High relevance for operations and strategy, though not a single market-moving event."
   }
 ]
