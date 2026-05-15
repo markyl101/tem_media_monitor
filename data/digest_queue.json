@@ -26,5 +26,19 @@
     "sentiment": "neutral",
     "ai_summary": "Fuse Energy, a named competitor in tem's I&C renewable space, has acquired a 20 MW solar farm in Wales, expanding its generation asset base and potentially its PPA offerings.",
     "ai_reasoning": "Fuse Energy is a direct competitor to tem in the I&C renewable energy market. While this acquisition shows competitive activity and market consolidation, it is not tem-specific news and does not represent an immediate threat requiring response this week. Background awareness of competitor expansion is useful but not urgent."
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPclZMUU1YSGxudWo4Wk9Pb29PMVVnVVJFeE8wTkxzb1BmUE1PcWlQVGw4aUU3R2IxTnBhbHVHb3lBQmxmaWp5R2tZTVhwWFAySVZDa0pjeTJMRF9DMVRhdVE1bUZSM1FQMG5RbGhya3BQd3hHNF9ONGl3SGg1UjVxc05tX1YyYmV3M0Vv?oc=5",
+    "title": "Fuse Energy Acquires 20MW Solar Farm Near Caerphilly - Business News Wales",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPclZMUU1YSGxudWo4Wk9Pb29PMVVnVVJFeE8wTkxzb1BmUE1PcWlQVGw4aUU3R2IxTnBhbHVHb3lBQmxmaWp5R2tZTVhwWFAySVZDa0pjeTJMRF9DMVRhdVE1bUZSM1FQMG5RbGhya3BQd3hHNF9ONGl3SGg1UjVxc05tX1YyYmV3M0Vv?oc=5\" target=\"_blank\">Fuse Energy Acquires 20MW Solar Farm Near Caerphilly</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business News Wales</font>",
+    "source": "Business News Wales",
+    "published": "Thu, 14 May 2026 22:03:54 GMT",
+    "fetched_via": "google_news",
+    "fetched_at": "2026-05-14T23:59:38.445095+00:00",
+    "relevance_score": 5,
+    "category": "competitor",
+    "sentiment": "neutral",
+    "ai_summary": "Fuse Energy, a direct competitor in the I&C renewable energy space, has acquired a 20MW solar farm. This signals competitive expansion into generation assets and portfolio growth.",
+    "ai_reasoning": "Fuse Energy is a named competitor, but this is a routine asset acquisition announcement rather than a strategic product launch or market event requiring immediate response. Useful background intelligence on competitor positioning but no immediate action needed this week."
   }
 ]
