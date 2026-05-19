@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "url": "https://www.utilitydive.com/news/data-centers-commercial-building-electricity-use-eia/820604/",
+    "title": "Data centers could be 33% of commercial building electricity use by 2050: EIA",
+    "snippet": "<figure><div><img src=\"https://imgproxy.divecdn.com/OC9lTPy9Yzjb5QuwTncYoHn87k2nmRpTlzu0CO0lyxc/g:nowe:0:239/c:3199:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS82STVBMzMxNWIuanBn.webp\" /></div></figure><p>In one modeled scenario, the Energy Information Administration projects server electricity consumption in 2050 will be more than 16 times what it was in 2020.</p>",
+    "source": "Utility Dive",
+    "published": "Tue, 19 May 2026 10:22:49 -0400",
+    "fetched_via": "rss_industry",
+    "fetched_at": "2026-05-19T16:20:03.864589+00:00",
+    "relevance_score": 5,
+    "category": "industry",
+    "sentiment": "neutral",
+    "ai_summary": "Long-term forecast showing data center electricity demand growth in US commercial sector. Relevant as background on emerging I&C customer trends and demand patterns.",
+    "ai_reasoning": "Data centers are a potential I&C customer segment, and understanding emerging demand trends is useful for business planning. However, this is a US-focused forecast with no direct impact on tem's current operations, pricing, or strategy this week."
+  }
+]
