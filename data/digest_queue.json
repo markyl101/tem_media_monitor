@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1EX1daaHIzeDdoOUd4ai1oMXlUcnhuY0gyUEtxcnFyNmZRVXRhQW1NdXJLck9LOXJka1g4ZDV5cGphRGtwa28zSHpKRV8xTnlGN2tFby1MT21OTWNRTHJUQ1lWWmkyUmstUXYtcFFQZThaMEnSAXhBVV95cUxOemxjeExjNklDdWxpQ1E0VVdIcllZb3otaEttMk8wY2pFRVViTmtCMVhSeEtyOHNvZzNCX3I2YWZDdUJfTXZOWms0bUxta1NWWmx1OVZyX3lqNGlOZGs0bTRVdlhZby1SRHhKdXdxcXh1bEgtWlVwSnU?oc=5",
+    "title": "Energy bills set to rise by \u00a3209 with Ofgem announcement due next week - The Mirror",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1EX1daaHIzeDdoOUd4ai1oMXlUcnhuY0gyUEtxcnFyNmZRVXRhQW1NdXJLck9LOXJka1g4ZDV5cGphRGtwa28zSHpKRV8xTnlGN2tFby1MT21OTWNRTHJUQ1lWWmkyUmstUXYtcFFQZThaMEnSAXhBVV95cUxOemxjeExjNklDdWxpQ1E0VVdIcllZb3otaEttMk8wY2pFRVViTmtCMVhSeEtyOHNvZzNCX3I2YWZDdUJfTXZOWms0bUxta1NWWmx1OVZyX3lqNGlOZGs0bTRVdlhZby1SRHhKdXdxcXh1bEgtWlVwSnU?oc=5\" target=\"_blank\">Energy bills set to rise by \u00a3209 with Ofgem announcement due next week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Mirror</font>",
+    "source": "The Mirror",
+    "published": "Tue, 19 May 2026 08:00:00 GMT",
+    "fetched_via": "google_news",
+    "fetched_at": "2026-05-19T09:42:11.746132+00:00",
+    "relevance_score": 5,
+    "category": "regulatory",
+    "sentiment": "neutral",
+    "ai_summary": "Ofgem is announcing changes to energy bills that will affect consumer tariffs. While tem operates in the I&C space rather than domestic retail, Ofgem price cap movements influence wholesale market dynamics and customer sentiment around energy costs.",
+    "ai_reasoning": "This is background industry reading about a regulatory announcement that indirectly affects the broader energy market context. No direct mention of tem, competitors, or specific I&C/B2B implications. Score 5 reflects that it's worth monitoring but requires no immediate action."
+  }
+]
