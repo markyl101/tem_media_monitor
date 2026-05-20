@@ -12,5 +12,19 @@
     "sentiment": "neutral",
     "ai_summary": "Long-term forecast showing data center electricity demand growth in US commercial sector. Relevant as background on emerging I&C customer trends and demand patterns.",
     "ai_reasoning": "Data centers are a potential I&C customer segment, and understanding emerging demand trends is useful for business planning. However, this is a US-focused forecast with no direct impact on tem's current operations, pricing, or strategy this week."
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBva3ZGX0toSGIzUmI5a1BSSzRvWlRkU3JTNk9VS1RtNWpGc1FYMTJ1Mm5nWVVfaWhjWFV3anUzUHJwbGVkYzRFLWNkTEtuNDBYMnlEQ0pnTkJXSWxCQWhhOFRJZ2tkOFEwYnowU0EtU256RVVodnZiSWlB?oc=5",
+    "title": "Ofgem energy price cap sees inflation fall - but cost of living could spike in coming months - The Mirror",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBva3ZGX0toSGIzUmI5a1BSSzRvWlRkU3JTNk9VS1RtNWpGc1FYMTJ1Mm5nWVVfaWhjWFV3anUzUHJwbGVkYzRFLWNkTEtuNDBYMnlEQ0pnTkJXSWxCQWhhOFRJZ2tkOFEwYnowU0EtU256RVVodnZiSWlB?oc=5\" target=\"_blank\">Ofgem energy price cap sees inflation fall - but cost of living could spike in coming months</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Mirror</font>",
+    "source": "The Mirror",
+    "published": "Wed, 20 May 2026 06:19:00 GMT",
+    "fetched_via": "google_news",
+    "fetched_at": "2026-05-20T07:42:35.393021+00:00",
+    "relevance_score": 5,
+    "category": "regulatory",
+    "sentiment": "neutral",
+    "ai_summary": "Ofgem price cap changes affect the broader energy market context tem operates in, particularly for understanding wholesale price dynamics and customer acquisition timing in the I&C space.",
+    "ai_reasoning": "While Ofgem price cap announcements are significant for the energy market, this is domestic consumer-focused news. tem operates in I&C, which is not subject to price caps. Relevant as background context on regulatory environment and market sentiment, but no direct business impact."
   }
 ]
