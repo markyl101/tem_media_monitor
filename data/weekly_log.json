@@ -54,5 +54,19 @@
     "sentiment": "neutral",
     "ai_summary": "Market-wide Half Hourly Settlement (MHHS) is a key regulatory change affecting EV fleet operations and energy settlement. This is a core tem business driver that will reshape how I&C customers are billed and how flexibility is valued.",
     "ai_reasoning": "MHHS is explicitly listed as a key topic for tem. This article directly addresses settlement methodology impacts on a major customer segment (EV fleets). While tem is not named, the topic is material enough to warrant monitoring and internal discussion on competitive positioning."
+  },
+  {
+    "url": "https://www.gov.uk/government/calls-for-evidence/solar-on-car-parks-and-electric-vehicle-charging",
+    "title": "Solar on car parks and electric vehicle charging",
+    "snippet": "We're seeking views on a proposal to mandate the installation of solar canopies on new outdoor car parks, subject to certain exemptions, as well as views around current planning policy relating to EV charging infrastruct\u2026",
+    "source": "GOV.UK / DESNZ",
+    "published": "2026-05-21T11:34:44+01:00",
+    "fetched_via": "regulatory_gov",
+    "fetched_at": "2026-05-21T11:24:43.113807+00:00",
+    "relevance_score": 6,
+    "category": "regulatory",
+    "sentiment": "neutral",
+    "ai_summary": "DESNZ consultation on solar canopy mandates and EV charging policy could influence commercial property development and on-site generation requirements for tem's I&C customer base.",
+    "ai_reasoning": "This is a formal government consultation that may impact planning and incentives for distributed generation (solar) on commercial sites\u2014relevant to tem's generator and customer acquisition strategy. Not urgent, but worth monitoring for how it shapes future I&C PPA demand."
   }
 ]
