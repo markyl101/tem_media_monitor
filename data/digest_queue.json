@@ -12,5 +12,33 @@
     "sentiment": "positive",
     "ai_summary": "National Grid's DSO roadmap may affect how tem interacts with distribution networks, flexibility markets, and DNO charges\u2014areas central to I&C customer value propositions. This signals regulatory momentum toward more flexible, decentralized energy systems that could create opportunities for flexible supply and trading strategies.",
     "ai_reasoning": "DSO evolution directly touches tem's operating environment (DNO charges, balancing, flex markets) and could open new customer offerings. Worth reviewing for strategic implications, though not an immediate action item. Background reading on regulatory trends shaping the market."
+  },
+  {
+    "url": "https://www.elexon.co.uk/2026/05/22/designated-sses-governance-framework-document-and-elexon-feedback-response-now-live/?utm_source=rss&utm_medium=rss&utm_campaign=designated-sses-governance-framework-document-and-elexon-feedback-response-now-live",
+    "title": "Designated SSES Governance Framework document and Elexon feedback response now live",
+    "snippet": "<p>The designated Smart Secure Electricity Systems (SSES) Governance Framework Document...</p>\n<p>The post <a href=\"https://www.elexon.co.uk/2026/05/22/designated-sses-governance-framework-document-and-elexon-feedback-response-now-live/\">Designated SSES Governance Framework document and Elexon feedback response now live</a> appeared first on <a href=\"https://www.elexon.co.uk\">Elexon</a>.</p>",
+    "source": "Elexon",
+    "published": "Fri, 22 May 2026 12:53:36 +0000",
+    "fetched_via": "rss_regulatory",
+    "fetched_at": "2026-05-22T14:38:30.951259+00:00",
+    "relevance_score": 6,
+    "category": "regulatory",
+    "sentiment": "neutral",
+    "ai_summary": "SSES Governance Framework document publication signals progress on next-generation electricity settlement architecture that will eventually impact tem's BSC participation and wholesale operations.",
+    "ai_reasoning": "Direct relevance to Elexon and Smart Secure Electricity Systems governance, which shapes future settlement and balancing rules. More substantive than index 2 as it's the actual framework document. Worth reviewing but not immediate market event."
+  },
+  {
+    "url": "https://www.elexon.co.uk/2026/05/22/register-to-vote-for-sses-technical-and-security-governance-group-members/?utm_source=rss&utm_medium=rss&utm_campaign=register-to-vote-for-sses-technical-and-security-governance-group-members",
+    "title": "Register to vote for SSES Technical and Security governance group members",
+    "snippet": "<p>We are calling for people from eligible organisations to register...</p>\n<p>The post <a href=\"https://www.elexon.co.uk/2026/05/22/register-to-vote-for-sses-technical-and-security-governance-group-members/\">Register to vote for SSES Technical and Security governance group members</a> appeared first on <a href=\"https://www.elexon.co.uk\">Elexon</a>.</p>",
+    "source": "Elexon",
+    "published": "Fri, 22 May 2026 14:18:09 +0000",
+    "fetched_via": "rss_regulatory",
+    "fetched_at": "2026-05-22T14:38:30.951244+00:00",
+    "relevance_score": 5,
+    "category": "regulatory",
+    "sentiment": "neutral",
+    "ai_summary": "Elexon governance voting for Smart Secure Electricity Systems technical/security working group is procedural industry housekeeping relevant to long-term BSC and grid evolution.",
+    "ai_reasoning": "Elexon is core to tem's regulatory environment and SSES affects future settlement/balancing frameworks. Worth tracking as background reading, but no immediate action needed. Administrative in nature."
   }
 ]
