@@ -82,5 +82,19 @@
     "sentiment": "neutral",
     "ai_summary": "ECA raises concerns with Ofgem about non-domestic data access for brokers, a potential regulatory issue affecting how I&C suppliers and brokers operate in the market.",
     "ai_reasoning": "Data access and broker relationships are operationally relevant to tem's B2B model, and an Ofgem intervention on this topic could reshape how tem interacts with intermediaries and accesses customer information. Not an immediate crisis but worth monitoring as it may affect competitive positioning."
+  },
+  {
+    "url": "https://www.energylivenews.com/2026/05/22/national-grid-dso-roadmap-aims-to-accelerate-flexible-low-carbon-energy-system/",
+    "title": "National Grid DSO Roadmap aims to accelerate flexible low-carbon energy system",
+    "snippet": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://www.energylivenews.com/wp-content/uploads/2026/03/shutterstock_287092376-150x150.jpeg\" width=\"150\" />National Grid roadmap supports cleaner, smarter and more flexible energy networks</p>\n<p>The post <a href=\"https://www.energylivenews.com/2026/05/22/national-grid-dso-roadmap-aims-to-accelerate-flexible-low-carbon-energy-system/\">National Grid DSO Roadmap aims to accelerate flexible low-carbon energ",
+    "source": "Energy Live News",
+    "published": "Fri, 22 May 2026 10:00:00 +0000",
+    "fetched_via": "rss_industry",
+    "fetched_at": "2026-05-22T11:45:26.452188+00:00",
+    "relevance_score": 6,
+    "category": "regulatory",
+    "sentiment": "positive",
+    "ai_summary": "National Grid's DSO roadmap may affect how tem interacts with distribution networks, flexibility markets, and DNO charges\u2014areas central to I&C customer value propositions. This signals regulatory momentum toward more flexible, decentralized energy systems that could create opportunities for flexible supply and trading strategies.",
+    "ai_reasoning": "DSO evolution directly touches tem's operating environment (DNO charges, balancing, flex markets) and could open new customer offerings. Worth reviewing for strategic implications, though not an immediate action item. Background reading on regulatory trends shaping the market."
   }
 ]
