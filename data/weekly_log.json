@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "url": "https://www.elexon.co.uk/2026/05/26/smart-secure-electricity-systems-sses-nominations-and-elections-webinar/?utm_source=rss&utm_medium=rss&utm_campaign=smart-secure-electricity-systems-sses-nominations-and-elections-webinar",
+    "title": "Smart Secure Electricity Systems (SSES) nominations and elections webinar",
+    "snippet": "<p>Join us for a webinar on the nominations and elections...</p>\n<p>The post <a href=\"https://www.elexon.co.uk/2026/05/26/smart-secure-electricity-systems-sses-nominations-and-elections-webinar/\">Smart Secure Electricity Systems (SSES) nominations and elections webinar</a> appeared first on <a href=\"https://www.elexon.co.uk\">Elexon</a>.</p>",
+    "source": "Elexon",
+    "published": "Tue, 26 May 2026 13:49:08 +0000",
+    "fetched_via": "rss_regulatory",
+    "fetched_at": "2026-05-26T15:27:19.555328+00:00",
+    "relevance_score": 8,
+    "category": "regulatory",
+    "sentiment": "neutral",
+    "ai_summary": "Elexon webinar on Smart Secure Electricity Systems (SSES) nominations and elections. SSES is a key regulatory framework affecting BSC arrangements and settlement that directly impacts tem's market operations and compliance.",
+    "ai_reasoning": "Elexon BSC governance and SSES framework changes are material to tem's business model. This webinar indicates upcoming elections or governance changes that could affect how the balancing mechanism and settlement systems operate, requiring tem stakeholder engagement."
+  },
+  {
+    "url": "https://www.energylivenews.com/2026/05/26/oeuk-urges-scottish-government-to-publish-energy-strategy-within-100-days/",
+    "title": "OEUK urges Scottish Government to publish energy strategy within 100 days",
+    "snippet": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://www.energylivenews.com/wp-content/uploads/2026/03/offshore-wind-farm-150x150.jpeg\" width=\"150\" />Policy uncertainty risks investment, jobs and Scotland\u2019s long-term industrial and energy security ambitions</p>\n<p>The post <a href=\"https://www.energylivenews.com/2026/05/26/oeuk-urges-scottish-government-to-publish-energy-strategy-within-100-days/\">OEUK urges Scottish Government to publish energy stra",
+    "source": "Energy Live News",
+    "published": "Tue, 26 May 2026 13:45:00 +0000",
+    "fetched_via": "rss_industry",
+    "fetched_at": "2026-05-26T15:27:16.220888+00:00",
+    "relevance_score": 5,
+    "category": "regulatory",
+    "sentiment": "neutral",
+    "ai_summary": "Scottish Government energy strategy delay raises policy uncertainty for UK renewable energy investment. Relevant as background context for market conditions but does not directly impact tem's operations.",
+    "ai_reasoning": "Policy uncertainty in Scotland affects the broader UK renewable energy landscape and investment climate, but this is a general trend piece without specific regulatory changes or market-moving announcements that require immediate action."
+  }
+]
