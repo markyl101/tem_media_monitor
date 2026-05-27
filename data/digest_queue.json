@@ -54,5 +54,19 @@
     "sentiment": "neutral",
     "ai_summary": "DESNZ consultation on changes to planning application fees for energy infrastructure projects. Relevant to tem's generator customers and broader policy environment but not an immediate operational concern.",
     "ai_reasoning": "This is a DESNZ consultation affecting energy infrastructure planning, which could impact tem's generator clients and future project development. Background reading on regulatory/policy evolution, but no immediate pricing, settlement, or competitive impact. Score is 5."
+  },
+  {
+    "url": "https://www.energylivenews.com/2026/05/27/ssen-transmission-cuts-grid-costs-while-supporting-cleaner-energy-growth/",
+    "title": "SSEN Transmission cuts grid costs while supporting cleaner energy growth",
+    "snippet": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://www.energylivenews.com/wp-content/uploads/2026/05/shutterstock_2696958435-150x150.jpg\" width=\"150\" />Operator has saved consumers \u00a3300m in constraint costs</p>\n<p>The post <a href=\"https://www.energylivenews.com/2026/05/27/ssen-transmission-cuts-grid-costs-while-supporting-cleaner-energy-growth/\">SSEN Transmission cuts grid costs while supporting cleaner energy growth</a> appeared first on <a href=",
+    "source": "Energy Live News",
+    "published": "Wed, 27 May 2026 15:00:00 +0000",
+    "fetched_via": "rss_industry",
+    "fetched_at": "2026-05-27T16:37:22.138563+00:00",
+    "relevance_score": 5,
+    "category": "regulatory",
+    "sentiment": "positive",
+    "ai_summary": "SSEN Transmission has reduced grid constraint costs by \u00a3300m, supporting cleaner energy growth. This indicates positive regulatory/operational trends in UK grid management that could benefit renewable energy suppliers like tem.",
+    "ai_reasoning": "Background reading on grid infrastructure and cost management. Relevant to understanding the regulatory environment and wholesale market dynamics, but no direct impact on tem's operations, pricing, or competitive strategy this week."
   }
 ]
