@@ -26,5 +26,47 @@
     "sentiment": "neutral",
     "ai_summary": "Scottish Government energy strategy delay raises policy uncertainty for UK renewable energy investment. Relevant as background context for market conditions but does not directly impact tem's operations.",
     "ai_reasoning": "Policy uncertainty in Scotland affects the broader UK renewable energy landscape and investment climate, but this is a general trend piece without specific regulatory changes or market-moving announcements that require immediate action."
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5hbGVINVloMlFVbzR6a0ExRFgzZFJkM0tBN1ZWYk5uZjlENWNON1N6MXUyU01XVWFiYmZBUG9Wc3hnT05CRzhOaTNhWGtLMGxDX0pJdzFRMk45YWpFSi13YU9BUXNIZnhmLXhkNEZqWGJkVVNzUGpyd3d3?oc=5",
+    "title": "Evolve Energy lands CPPA for Burger King UK - reNews",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5hbGVINVloMlFVbzR6a0ExRFgzZFJkM0tBN1ZWYk5uZjlENWNON1N6MXUyU01XVWFiYmZBUG9Wc3hnT05CRzhOaTNhWGtLMGxDX0pJdzFRMk45YWpFSi13YU9BUXNIZnhmLXhkNEZqWGJkVVNzUGpyd3d3?oc=5\" target=\"_blank\">Evolve Energy lands CPPA for Burger King UK</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reNews</font>",
+    "source": "reNews",
+    "published": "Wed, 27 May 2026 08:42:42 GMT",
+    "fetched_via": "google_news",
+    "fetched_at": "2026-05-27T09:49:03.242784+00:00",
+    "relevance_score": 7,
+    "category": "competitor",
+    "sentiment": "neutral",
+    "ai_summary": "Evolve Energy, a direct competitor in the I&C renewable energy space, has secured a major corporate PPA with Burger King UK. This demonstrates competitive activity in the CPPA market that tem operates in.",
+    "ai_reasoning": "Evolve Energy is a named competitor. Their CPPA win signals market activity and customer acquisition in the corporate renewable energy segment, which is relevant to tem's business strategy. Score is 7 (not 8) because it's a single deal announcement rather than a product launch or policy change affecting tem directly."
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONk11b1ZKN2Q5Tk4wZG54U2s0RkRNa004SmxTUXlpencyR29TUHpvblRLd3J1TjRaSV9YT2lhTldhMlkwUlZ4VXVLMWJmNXpid051OGQ0WGp1aXB1Q1l4T2F2WDJ4TkFRZW5qSnRBV2NVcXFuTkhFMExSdmRnZk9TbW1pMUhsTlpkWmVmcVdESU41NEVpdk1pd2ZxLU1FVzRpVTZJcnB2XzRxcXpwX3pOd3p4T2FJYUtiaWhDWXNEZkwtRmhvSmdwYmdNMDYwakVZNW1zQW9lSQ?oc=5",
+    "title": "Evolve Energy and Alaska Wind Farm supply renewable energy to BKUK restaurants - Windtech International",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxONk11b1ZKN2Q5Tk4wZG54U2s0RkRNa004SmxTUXlpencyR29TUHpvblRLd3J1TjRaSV9YT2lhTldhMlkwUlZ4VXVLMWJmNXpid051OGQ0WGp1aXB1Q1l4T2F2WDJ4TkFRZW5qSnRBV2NVcXFuTkhFMExSdmRnZk9TbW1pMUhsTlpkWmVmcVdESU41NEVpdk1pd2ZxLU1FVzRpVTZJcnB2XzRxcXpwX3pOd3p4T2FJYUtiaWhDWXNEZkwtRmhvSmdwYmdNMDYwakVZNW1zQW9lSQ?oc=5\" target=\"_blank\">Evolve Energy and Alaska Wind Farm supply renewable energy to BKUK restaurants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windtech International</font>",
+    "source": "Windtech International",
+    "published": "Wed, 27 May 2026 08:19:47 GMT",
+    "fetched_via": "google_news",
+    "fetched_at": "2026-05-27T09:49:03.242802+00:00",
+    "relevance_score": 6,
+    "category": "competitor",
+    "sentiment": "neutral",
+    "ai_summary": "Follow-up coverage of Evolve Energy's CPPA with Burger King UK, highlighting the renewable supply chain and wind farm partnership. Additional detail on a competitor's market activity.",
+    "ai_reasoning": "Duplicate/extended coverage of the same deal (index 0). Provides additional context on the renewable energy supply partnership but doesn't introduce new competitive intelligence. Score is 6 as supporting context to competitor activity."
+  },
+  {
+    "url": "https://www.gov.uk/government/consultations/changes-to-energy-infrastructure-planning-application-fees",
+    "title": "Changes to energy infrastructure planning application fees",
+    "snippet": "We are seeking views on proposed changes to fees for energy infrastructure planning applications.",
+    "source": "GOV.UK / DESNZ",
+    "published": "2026-05-27T09:30:00+01:00",
+    "fetched_via": "regulatory_gov",
+    "fetched_at": "2026-05-27T09:51:30.191600+00:00",
+    "relevance_score": 5,
+    "category": "regulatory",
+    "sentiment": "neutral",
+    "ai_summary": "DESNZ consultation on changes to planning application fees for energy infrastructure projects. Relevant to tem's generator customers and broader policy environment but not an immediate operational concern.",
+    "ai_reasoning": "This is a DESNZ consultation affecting energy infrastructure planning, which could impact tem's generator clients and future project development. Background reading on regulatory/policy evolution, but no immediate pricing, settlement, or competitive impact. Score is 5."
   }
 ]
