@@ -82,5 +82,19 @@
     "sentiment": "neutral",
     "ai_summary": "A \u00a3500m retrofit programme for 300 university buildings creates potential downstream demand for renewable energy supply and asset management, but lacks specific detail on energy procurement or tem's involvement.",
     "ai_reasoning": "Universities are I&C customers in tem's addressable market, and retrofit activity typically drives renewable energy PPAs and electricity supply contracts. However, this article focuses on financing and decarbonisation rather than energy procurement specifics. Worth monitoring for customer development opportunity, but no immediate action required. Scored 5 for background relevance to market trends."
+  },
+  {
+    "url": "https://www.gov.uk/government/consultations/growing-the-market-for-low-carbon-industrial-products-policy-framework",
+    "title": "Growing the market for low carbon industrial products: policy framework",
+    "snippet": "We're seeking views on policy options for growing the market for low carbon industrial products, including steel and concrete.",
+    "source": "GOV.UK / DESNZ",
+    "published": "2026-05-28T12:07:26+01:00",
+    "fetched_via": "regulatory_gov",
+    "fetched_at": "2026-05-28T11:45:50.854278+00:00",
+    "relevance_score": 6,
+    "category": "regulatory",
+    "sentiment": "positive",
+    "ai_summary": "DESNZ consultation on policy framework for low-carbon industrial products (steel, concrete). Relevant to tem's I&C customer base and long-term decarbonisation demand drivers.",
+    "ai_reasoning": "Industrial decarbonisation policy directly affects tem's I&C customer demand for renewable energy and PPAs. Consultation signals government commitment to supporting green industrial products, which could expand the market for renewable energy supply. Worth monitoring for strategic positioning."
   }
 ]
