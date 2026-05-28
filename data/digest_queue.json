@@ -68,5 +68,19 @@
     "sentiment": "positive",
     "ai_summary": "SSEN Transmission has reduced grid constraint costs by \u00a3300m, supporting cleaner energy growth. This indicates positive regulatory/operational trends in UK grid management that could benefit renewable energy suppliers like tem.",
     "ai_reasoning": "Background reading on grid infrastructure and cost management. Relevant to understanding the regulatory environment and wholesale market dynamics, but no direct impact on tem's operations, pricing, or competitive strategy this week."
+  },
+  {
+    "url": "https://www.energylivenews.com/2026/05/28/huge-500m-retrofit-bonanza-for-universities/",
+    "title": "Huge \u00a3500m retrofit bonanza for universities",
+    "snippet": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://www.energylivenews.com/wp-content/uploads/2025/09/Shutterstock_763473286-150x150.jpg\" width=\"150\" />Lloyds teams up with National Wealth Fund to help decarbonise 300 buildings</p>\n<p>The post <a href=\"https://www.energylivenews.com/2026/05/28/huge-500m-retrofit-bonanza-for-universities/\">Huge \u00a3500m retrofit bonanza for universities</a> appeared first on <a href=\"https://www.energylivenews.com\">Ener",
+    "source": "Energy Live News",
+    "published": "Thu, 28 May 2026 07:01:00 +0000",
+    "fetched_via": "rss_industry",
+    "fetched_at": "2026-05-28T07:58:04.901713+00:00",
+    "relevance_score": 5,
+    "category": "industry",
+    "sentiment": "neutral",
+    "ai_summary": "A \u00a3500m retrofit programme for 300 university buildings creates potential downstream demand for renewable energy supply and asset management, but lacks specific detail on energy procurement or tem's involvement.",
+    "ai_reasoning": "Universities are I&C customers in tem's addressable market, and retrofit activity typically drives renewable energy PPAs and electricity supply contracts. However, this article focuses on financing and decarbonisation rather than energy procurement specifics. Worth monitoring for customer development opportunity, but no immediate action required. Scored 5 for background relevance to market trends."
   }
 ]
