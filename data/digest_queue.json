@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "url": "https://www.utilitydive.com/news/hyperscaler-data-center-power-companies-grid-utilities/820568/",
+    "title": "Hyperscalers didn\u2019t set out to be power companies. The grid left them no choice.",
+    "snippet": "<figure><div><img src=\"https://imgproxy.divecdn.com/FZzOjUbXAte-Gjv3I22Fk1amwctnWUSKHZPhY1s50FM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcxNDAwNjk1LmpwZw==.webp\" /></div></figure><p>The power gap left hyperscalers with no alternative but to take on utility-scale obligations and lock up gigawatts of generation, writes Peak Nano CMO Shaun Walsh.</p>",
+    "source": "Utility Dive",
+    "published": "Thu, 28 May 2026 11:00:00 -0400",
+    "fetched_via": "rss_industry",
+    "fetched_at": "2026-05-28T15:54:13.979123+00:00",
+    "relevance_score": 5,
+    "category": "industry",
+    "sentiment": "neutral",
+    "ai_summary": "Trend piece on hyperscalers entering the power generation market due to grid constraints. Relevant background on emerging I&C customer dynamics and competition for power supply.",
+    "ai_reasoning": "This is background reading on market trends affecting large-scale I&C customers, but not a specific regulatory change, competitor product launch, or tem-specific event requiring immediate action."
+  }
+]
