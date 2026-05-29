@@ -26,5 +26,19 @@
     "sentiment": "neutral",
     "ai_summary": "Drax has commissioned a new OCGT plant in Wales, expanding its generation assets and potential market presence in flexible power. This may affect wholesale pricing dynamics and Drax's trading/balancing position.",
     "ai_reasoning": "Drax is a named competitor in tem's space (wholesale, trading, balancing). New generation capacity affects market supply and pricing, which impacts tem's wholesale hedging strategy and customer offerings. However, this is a single asset commissioning rather than a strategic product or service launch that directly threatens tem's business model. Score reflects background relevance to market structure."
+  },
+  {
+    "url": "https://www.energylivenews.com/2026/05/29/grid-capacity-concerns-threaten-motorway-ev-charging-expansion/",
+    "title": "Grid capacity concerns threaten motorway EV charging expansion",
+    "snippet": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://www.energylivenews.com/wp-content/uploads/2026/05/shutterstock_2635954415-resized-to-1035x592-1-150x150.jpeg\" width=\"150\" />Industry leaders warn motorway charging infrastructure risks falling behind growing electric vehicle demand without urgent grid upgrades</p>\n<p>The post <a href=\"https://www.energylivenews.com/2026/05/29/grid-capacity-concerns-threaten-motorway-ev-charging-expansion/\">Grid cap",
+    "source": "Energy Live News",
+    "published": "Fri, 29 May 2026 11:00:00 +0000",
+    "fetched_via": "rss_industry",
+    "fetched_at": "2026-05-29T11:31:28.704460+00:00",
+    "relevance_score": 5,
+    "category": "industry",
+    "sentiment": "neutral",
+    "ai_summary": "Grid capacity constraints affecting EV charging infrastructure development is relevant to tem's understanding of electricity demand trends and DNO challenges, but does not directly impact I&C renewable energy supply or wholesale market operations.",
+    "ai_reasoning": "This is background reading on grid infrastructure challenges. While relevant to the broader energy landscape and potential future demand drivers, it does not directly affect tem's current business model, pricing, or competitive positioning in the I&C renewable energy market. Worth tracking but no immediate action required."
   }
 ]
