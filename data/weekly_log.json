@@ -124,5 +124,19 @@
     "sentiment": "neutral",
     "ai_summary": "Trend piece on hyperscalers entering the power generation market due to grid constraints. Relevant background on emerging I&C customer dynamics and competition for power supply.",
     "ai_reasoning": "This is background reading on market trends affecting large-scale I&C customers, but not a specific regulatory change, competitor product launch, or tem-specific event requiring immediate action."
+  },
+  {
+    "url": "https://www.drax.com/news/commissioning-of-first-ocgt-plant/",
+    "title": "Commissioning of First OCGT Plant",
+    "snippet": "<p>RNS Number: 1217G Drax Group plc (\u201cDrax\u201d or the \u201cCompany\u201d; Symbol:DRX) Drax is pleased to announce that\u00a0commissioning of Hirwaun Power Station is now complete and Drax has assumed commercial control from the developer Metlen Energy &#38; Metals. Hirwaun, which is located in South Wales, is the first of three 299MW Open Cycle Gas Turbine (OCGT)<a class=\"excerpt-read-more\" href=\"https://www.drax.com/news/commissioning-of-first-ocgt-plant/\" title=\"ReadCommissioning of First OCGT Plant\">... Read ",
+    "source": "Drax",
+    "published": "Fri, 29 May 2026 06:01:11 +0000",
+    "fetched_via": "rss_competitors",
+    "fetched_at": "2026-05-29T07:56:07.902752+00:00",
+    "relevance_score": 5,
+    "category": "competitor",
+    "sentiment": "neutral",
+    "ai_summary": "Drax has commissioned a new OCGT plant in Wales, expanding its generation assets and potential market presence in flexible power. This may affect wholesale pricing dynamics and Drax's trading/balancing position.",
+    "ai_reasoning": "Drax is a named competitor in tem's space (wholesale, trading, balancing). New generation capacity affects market supply and pricing, which impacts tem's wholesale hedging strategy and customer offerings. However, this is a single asset commissioning rather than a strategic product or service launch that directly threatens tem's business model. Score reflects background relevance to market structure."
   }
 ]
