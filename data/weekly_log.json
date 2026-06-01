@@ -152,5 +152,33 @@
     "sentiment": "neutral",
     "ai_summary": "Grid capacity constraints affecting EV charging infrastructure development is relevant to tem's understanding of electricity demand trends and DNO challenges, but does not directly impact I&C renewable energy supply or wholesale market operations.",
     "ai_reasoning": "This is background reading on grid infrastructure challenges. While relevant to the broader energy landscape and potential future demand drivers, it does not directly affect tem's current business model, pricing, or competitive positioning in the I&C renewable energy market. Worth tracking but no immediate action required."
+  },
+  {
+    "url": "https://www.utilitydive.com/spons/how-utilities-can-add-capacity-in-months-not-years/821035/",
+    "title": "How utilities can add capacity in months, not years",
+    "snippet": "<p>For utilities managing surging electricity demand, a scalable, non-wires approach to expanding grid capacity can be deployed in just a few months.</p>",
+    "source": "Utility Dive",
+    "published": "Mon, 01 Jun 2026 05:00:00 -0400",
+    "fetched_via": "rss_industry",
+    "fetched_at": "2026-06-01T10:19:02.573584+00:00",
+    "relevance_score": 5,
+    "category": "industry",
+    "sentiment": "neutral",
+    "ai_summary": "Article discusses non-wires solutions for grid capacity expansion. Relevant background on grid infrastructure trends that affect wholesale market and demand-side flexibility opportunities.",
+    "ai_reasoning": "Relates to grid management and capacity solutions, which touches on flexibility and trading, but is US-focused and not directly actionable for tem's UK I&C business this week."
+  },
+  {
+    "url": "https://www.elexon.co.uk/2026/06/01/nominate-election-candidates-for-the-sses-technical-and-security-governance-groups/?utm_source=rss&utm_medium=rss&utm_campaign=nominate-election-candidates-for-the-sses-technical-and-security-governance-groups",
+    "title": "Nominate election candidates for the SSES\u202fTechnical and Security governance groups",
+    "snippet": "<p>Nominations are now open\u00a0for Smart Secure Electricity Systems (SSES)...</p>\n<p>The post <a href=\"https://www.elexon.co.uk/2026/06/01/nominate-election-candidates-for-the-sses-technical-and-security-governance-groups/\">Nominate election candidates for the SSES\u202fTechnical and Security governance groups\u202f</a> appeared first on <a href=\"https://www.elexon.co.uk\">Elexon</a>.</p>",
+    "source": "Elexon",
+    "published": "Mon, 01 Jun 2026 08:33:02 +0000",
+    "fetched_via": "rss_regulatory",
+    "fetched_at": "2026-06-01T10:19:05.503110+00:00",
+    "relevance_score": 5,
+    "category": "regulatory",
+    "sentiment": "neutral",
+    "ai_summary": "Elexon announces nominations for SSES Technical and Security governance groups. Background on BSC governance processes that tem should monitor.",
+    "ai_reasoning": "Elexon governance is relevant to tem's industry environment and BSC operations, but this is routine administrative update, not a market-moving event or change to regulation."
   }
 ]
