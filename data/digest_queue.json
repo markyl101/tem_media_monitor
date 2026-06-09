@@ -12,5 +12,19 @@
     "sentiment": "neutral",
     "ai_summary": "UK battery developers convening to discuss innovation in battery systems. Relevant as battery storage is part of the broader renewable energy and flexible generation landscape.",
     "ai_reasoning": "Battery storage is tangentially related to tem's flex and trading operations, and the renewable energy transition broadly. Worth monitoring as background context on storage technology trends, but no immediate business impact."
+  },
+  {
+    "url": "https://www.energylivenews.com/2026/06/09/the-regulation-round-up-2026/",
+    "title": "The regulation round up 2026",
+    "snippet": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://www.energylivenews.com/wp-content/uploads/2025/12/Shutterstock_2393210151-150x150.jpg\" width=\"150\" />Stay ahead with our May Regs Round up covering: key regulations, changes and market updates</p>\n<p>The post <a href=\"https://www.energylivenews.com/2026/06/09/the-regulation-round-up-2026/\">The regulation round up 2026</a> appeared first on <a href=\"https://www.energylivenews.com\">Energy Live News</",
+    "source": "Energy Live News",
+    "published": "Tue, 09 Jun 2026 08:00:00 +0000",
+    "fetched_via": "rss_industry",
+    "fetched_at": "2026-06-09T09:42:43.533825+00:00",
+    "relevance_score": 6,
+    "category": "regulatory",
+    "sentiment": "neutral",
+    "ai_summary": "A regulatory round-up covering key changes and market updates is background reading that may touch on Ofgem, BSC, or DNO topics affecting tem's pricing and operations.",
+    "ai_reasoning": "Regulatory round-ups are potentially useful for staying informed on rule changes, but without specific detail on content (Ofgem rulings, BSC amendments, MHHS, BSUoS), confidence is moderate. Worth monitoring but unlikely to require immediate action."
   }
 ]
