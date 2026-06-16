@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "url": "https://www.gov.uk/government/consultations/plug-in-solar",
+    "title": "Plug-in solar: Regulatory amendment and interim product specification",
+    "snippet": "We're seeking views on proposals to enable the safe and legal use of plug-in solar (plug-in microgeneration) products in the UK.",
+    "source": "GOV.UK / DESNZ",
+    "published": "2026-06-16T15:02:00+01:00",
+    "fetched_via": "regulatory_gov",
+    "fetched_at": "2026-06-16T15:53:52.101899+00:00",
+    "relevance_score": 8,
+    "category": "regulatory",
+    "sentiment": "neutral",
+    "ai_summary": "DESNZ consultation on plug-in solar regulatory amendment. Relevant as a policy shift that could expand small-scale microgeneration supply and affect tem's customer acquisition and market positioning in the I&C distributed generation space.",
+    "ai_reasoning": "Direct regulatory consultation from DESNZ on UK microgeneration. Plug-in solar products expanding the market for small generators tem may service; changes to product specification and legal framework could affect tem's generator customer base and trading opportunities in the evolving DG market."
+  }
+]
