@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "url": "https://www.gov.uk/government/consultations/assessment-and-rating-of-wind-turbine-noise-guidance-proposed-updates",
+    "title": "Assessment and rating of wind turbine noise guidance: proposed updates",
+    "snippet": "We're seeking views on updates to guidance on the assessment of noise from onshore wind turbines across the UK.",
+    "source": "GOV.UK / DESNZ",
+    "published": "2026-06-19T12:00:05+01:00",
+    "fetched_via": "regulatory_gov",
+    "fetched_at": "2026-06-19T11:27:08.504235+00:00",
+    "relevance_score": 4,
+    "category": "regulatory",
+    "sentiment": "neutral",
+    "ai_summary": "DESNZ consultation on wind turbine noise guidance updates may indirectly affect planning and operational costs for tem's wind generator partners.",
+    "ai_reasoning": "This is a formal consultation that could shape future wind farm economics and compliance costs for tem's generator customers. Worth monitoring to understand market conditions, but not an immediate priority. No direct commercial or pricing impact on tem's I&C supply business."
+  }
+]
