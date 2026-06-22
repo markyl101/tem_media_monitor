@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "url": "https://www.utilitydive.com/news/budderfly-and-viridi-team-up-to-install-fail-safe-batteries-at-commercial/823383/",
+    "title": "Budderfly and Viridi team up to install \u2018fail-safe\u2019 batteries at commercial facilities",
+    "snippet": "<p>Coupled with other efficiency measures offered through Budderfly&rsquo;s energy-as-a-service solution, on-site batteries can reduce facilities&rsquo; energy expenses by up to 70%, Budderfly CEO Al Subbloie said.&nbsp;</p>",
+    "source": "Utility Dive",
+    "published": "Mon, 22 Jun 2026 11:00:00 -0400",
+    "fetched_via": "rss_industry",
+    "fetched_at": "2026-06-22T15:51:02.248804+00:00",
+    "relevance_score": 5,
+    "category": "industry",
+    "sentiment": "neutral",
+    "ai_summary": "Battery storage and energy-as-a-service offering for commercial facilities demonstrates competitor activity in I&C energy solutions. Relevant as market context but not an immediate threat to tem's core wholesale/PPA model.",
+    "ai_reasoning": "Background reading on I&C energy service offerings; shows market trends in commercial storage/efficiency but neither company is a direct tem competitor and the offering focuses on on-site generation rather than supply/wholesale. Worth monitoring but no immediate action required."
+  }
+]
