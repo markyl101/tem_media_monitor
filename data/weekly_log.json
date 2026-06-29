@@ -54,5 +54,19 @@
     "sentiment": "neutral",
     "ai_summary": "Data centers negotiating flexibility arrangements with utilities is a growing market trend relevant to tem's flex and trading operations, though this piece appears US-focused and lacks UK-specific detail.",
     "ai_reasoning": "This is background industry reading on demand-side flexibility and utility partnerships. Relevant to tem's flex/trading business model, but generic without UK market specificity, competitor mentions, or regulatory impact. Worth monitoring the trend but no immediate action required."
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2ak1NaUJMckRoOHdGTy1ReGZOVmhoZS15aS1lbkxtVl9DS1VZSU81OGNmQ0g2TjdaUTV6Q1g2YmtiSnVFZWV2R3pIS1dMUVdzQURwbklxaXdFMTVJeXZIYXJyUDh0UnZReUVycS16dllNdk1aTnhiVzl4U3RuQQ?oc=5",
+    "title": "SmartestEnergy OnPath sign co-location deal - reNEWS",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFA2ak1NaUJMckRoOHdGTy1ReGZOVmhoZS15aS1lbkxtVl9DS1VZSU81OGNmQ0g2TjdaUTV6Q1g2YmtiSnVFZWV2R3pIS1dMUVdzQURwbklxaXdFMTVJeXZIYXJyUDh0UnZReUVycS16dllNdk1aTnhiVzl4U3RuQQ?oc=5\" target=\"_blank\">SmartestEnergy OnPath sign co-location deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reNEWS</font>",
+    "source": "reNEWS",
+    "published": "Mon, 29 Jun 2026 10:04:07 GMT",
+    "fetched_via": "google_news",
+    "fetched_at": "2026-06-29T10:58:49.463705+00:00",
+    "relevance_score": 8,
+    "category": "competitor",
+    "sentiment": "neutral",
+    "ai_summary": "SmartestEnergy, a direct competitor to tem in the I&C renewable energy supply space, has signed a co-location deal with OnPath. This signals competitive moves in grid infrastructure and asset positioning that could affect tem's market position and customer offerings.",
+    "ai_reasoning": "SmartestEnergy is a named direct competitor in tem's I&C market segment. A co-location deal suggests infrastructure investment and potential new service capabilities that warrant monitoring. Score of 8 reflects competitive significance but lack of direct impact on tem's immediate operations without full article detail."
   }
 ]
