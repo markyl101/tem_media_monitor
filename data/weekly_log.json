@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "url": "https://www.energylivenews.com/2026/07/07/__trashed-11/",
+    "title": "Elexon to launch smart data repository to support smarter energy system",
+    "snippet": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://www.energylivenews.com/wp-content/uploads/2026/04/pylonss-150x150.jpeg\" width=\"150\" />Elexon will launch its smart data repository this autumn to improve data access, support innovation and accelerate energy system flexibility</p>\n<p>The post <a href=\"https://www.energylivenews.com/2026/07/07/__trashed-11/\">Elexon to launch smart data repository to support smarter energy system</a> appeared first o",
+    "source": "Energy Live News",
+    "published": "Tue, 07 Jul 2026 12:00:00 +0000",
+    "fetched_via": "rss_industry",
+    "fetched_at": "2026-07-07T13:20:57.562880+00:00",
+    "relevance_score": 8,
+    "category": "regulatory",
+    "sentiment": "positive",
+    "ai_summary": "Elexon's smart data repository launch will improve data access and transparency in the UK energy system, potentially benefiting tem's operations around settlement, balancing, and market participation.",
+    "ai_reasoning": "Elexon is a key regulator in tem's operating environment (BSC, balancing mechanism, half-hourly settlement). A major data infrastructure upgrade affects how tem and competitors access market information and may create operational efficiencies or trading opportunities."
+  }
+]
