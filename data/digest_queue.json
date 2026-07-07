@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "url": "https://www.gov.uk/government/consultations/eskdalemuir-seismic-array-revised-approach-to-managing-onshore-wind-turbine-interference",
+    "title": "Eskdalemuir seismic array: revised approach to managing onshore wind turbine interference",
+    "snippet": "Proposals for an updated approach to managing onshore wind turbine interference with the Eskdalemuir seismic array.",
+    "source": "GOV.UK / DESNZ",
+    "published": "2026-07-07T17:06:50+01:00",
+    "fetched_via": "regulatory_gov",
+    "fetched_at": "2026-07-07T16:31:45.821376+00:00",
+    "relevance_score": 5,
+    "category": "regulatory",
+    "sentiment": "neutral",
+    "ai_summary": "DESNZ consultation on managing wind turbine interference with seismic monitoring; affects onshore wind generator viability and operational constraints in the UK.",
+    "ai_reasoning": "Relevant to tem's wind generator customer base and potential grid stability impacts, but narrow in scope. A background read on UK wind policy rather than an immediate business driver."
+  }
+]
