@@ -26,5 +26,19 @@
     "sentiment": "neutral",
     "ai_summary": "DESNZ consultation on managing wind turbine interference with seismic monitoring; affects onshore wind generator viability and operational constraints in the UK.",
     "ai_reasoning": "Relevant to tem's wind generator customer base and potential grid stability impacts, but narrow in scope. A background read on UK wind policy rather than an immediate business driver."
+  },
+  {
+    "url": "https://www.energylivenews.com/2026/07/08/ofgem-promises-to-regulate-brokers-without-undermining-the-market/",
+    "title": "Ofgem promises to regulate brokers without undermining the market",
+    "snippet": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://www.energylivenews.com/wp-content/uploads/2025/07/Louise-Van-Rensburg.00_15_09_02.Still001-150x150.jpg\" width=\"150\" />What will TPI regulation mean and why Ofgem want your input into how it develops...</p>\n<p>The post <a href=\"https://www.energylivenews.com/2026/07/08/ofgem-promises-to-regulate-brokers-without-undermining-the-market/\">Ofgem promises to regulate brokers without undermining the marke",
+    "source": "Energy Live News",
+    "published": "Wed, 08 Jul 2026 08:00:00 +0000",
+    "fetched_via": "rss_industry",
+    "fetched_at": "2026-07-08T08:27:23.355769+00:00",
+    "relevance_score": 7,
+    "category": "regulatory",
+    "sentiment": "neutral",
+    "ai_summary": "Ofgem is developing regulation for Third Party Intermediaries (brokers/TPIs) in energy markets. This could affect how tem engages with brokers, customers, and market dynamics in the I&C space.",
+    "ai_reasoning": "TPI regulation is a material policy development for the energy supply sector. tem likely uses or competes with brokers; new Ofgem rules on broker conduct and market access could reshape competitive dynamics and require operational/compliance adjustments. Worth monitoring closely but not an immediate crisis."
   }
 ]
