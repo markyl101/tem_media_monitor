@@ -54,5 +54,19 @@
     "sentiment": "negative",
     "ai_summary": "Report highlights impact of elevated energy prices on UK businesses, indicating sustained high-price environment that affects I&C customer acquisition and retention prospects.",
     "ai_reasoning": "General industry trend piece on business energy costs. No tem mention, no specific regulatory change, but relevant background on market conditions affecting tem's I&C customer base. Worth monitoring but no immediate action required."
+  },
+  {
+    "url": "https://www.gov.uk/government/consultations/draft-strategic-policy-guidance-for-electricity-networks-growth",
+    "title": "Draft strategic policy guidance for electricity networks growth",
+    "snippet": "We're seeking views on draft social and environmental guidance for the Gas and Electricity Markets Authority.",
+    "source": "GOV.UK / DESNZ",
+    "published": "2026-07-08T17:00:00+01:00",
+    "fetched_via": "regulatory_gov",
+    "fetched_at": "2026-07-08T16:42:29.311478+00:00",
+    "relevance_score": 5,
+    "category": "regulatory",
+    "sentiment": "neutral",
+    "ai_summary": "DESNZ consultation on strategic policy guidance for electricity networks growth; affects long-term network planning and may influence DNO charges and grid access costs for tem's generator customers.",
+    "ai_reasoning": "This is formal policy guidance from DESNZ that shapes electricity network infrastructure planning and authority decision-making. It has indirect relevance to tem's I&C and generator business through potential impacts on DNO charges and network investment timelines, but is not immediately actionable and doesn't directly name tem or announce specific regulatory changes. Worth monitoring as background reading on industry direction."
   }
 ]
