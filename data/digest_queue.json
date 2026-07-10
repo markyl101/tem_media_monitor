@@ -12,5 +12,19 @@
     "sentiment": "neutral",
     "ai_summary": "Heatwave-driven supply warnings from NESO indicate system stress conditions that may affect wholesale electricity prices and balancing mechanism activity, both relevant to tem's trading and customer hedging strategies.",
     "ai_reasoning": "Background reading on grid stress and margin warnings. Relevant to wholesale market dynamics and balancing costs but not a specific regulatory change or competitor action requiring immediate response. Worth monitoring for pricing trends."
+  },
+  {
+    "url": "https://www.yuenergy.co.uk/support/vat-information-form/",
+    "title": "VAT Information & Form",
+    "snippet": "<p>Are you eligible to claim reduced VAT rates for your energy? If you consider that your business may be eligible for a reduced VAT rate, please complete the VAT Declaration Certificate below and email it to customercare@yuenergy.co.uk Download the VAT Form here Once we receive your completed certificate, we\u2019ll review the information provided and update &#8230; <a href=\"https://www.yuenergy.co.uk/support/vat-information-form/\">Continued</a></p>\n<p>The post <a href=\"https://www.yuenergy.co.uk/su",
+    "source": "Y\u00fc Energy",
+    "published": "Fri, 10 Jul 2026 09:01:29 +0000",
+    "fetched_via": "rss_competitors",
+    "fetched_at": "2026-07-10T10:52:57.620719+00:00",
+    "relevance_score": 5,
+    "category": "competitor",
+    "sentiment": "neutral",
+    "ai_summary": "Y\u00fc Energy offering VAT declaration support to customers, a standard customer service function that competitors provide. Indicates competitor engagement with VAT compliance but no novel offering.",
+    "ai_reasoning": "Y\u00fc Energy is a named competitor, but this is routine customer administration (VAT forms) rather than a strategic product launch, pricing change, or market event. Worth monitoring as background on competitor customer service practices, but no immediate action required."
   }
 ]
