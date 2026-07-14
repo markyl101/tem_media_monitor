@@ -40,5 +40,19 @@
     "sentiment": "neutral",
     "ai_summary": "Record EU solar generation demonstrates the scale of renewable capacity growth and market dynamics that may influence UK wholesale prices and generation mix assumptions in tem's business planning.",
     "ai_reasoning": "This is background market context on renewable energy trends, but it's EU-focused and doesn't directly affect tem's UK I&C business, competitive position, or pricing decisions this week. Useful for long-term strategy but not actionable."
+  },
+  {
+    "url": "https://www.energylivenews.com/2026/07/14/british-firms-face-800m-eu-carbon-tax-bill/",
+    "title": "British firms face \u00a3800m EU carbon tax bill",
+    "snippet": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://www.energylivenews.com/wp-content/uploads/2026/07/shutterstock_2491966181-resized-to-1035x690-1-150x150.jpeg\" width=\"150\" />UK and EU should allow each other to be exempt from emissions trading charges or costs will rocket</p>\n<p>The post <a href=\"https://www.energylivenews.com/2026/07/14/british-firms-face-800m-eu-carbon-tax-bill/\">British firms face \u00a3800m EU carbon tax bill</a> appeared first on ",
+    "source": "Energy Live News",
+    "published": "Tue, 14 Jul 2026 11:00:00 +0000",
+    "fetched_via": "rss_industry",
+    "fetched_at": "2026-07-14T12:11:31.466176+00:00",
+    "relevance_score": 4,
+    "category": "regulatory",
+    "sentiment": "negative",
+    "ai_summary": "EU carbon tax exposure for UK firms may affect customer operating costs and carbon accounting, potentially influencing demand for renewable PPAs and hedging strategies among tem's I&C customer base.",
+    "ai_reasoning": "This touches on regulatory and fiscal policy that could indirectly shape customer interest in renewable energy hedging and cost management. However, it does not directly mention tem, competitors, or specific market mechanics affecting supply pricing or BSC operations. Worth monitoring for customer conversation context but not an immediate business driver."
   }
 ]
