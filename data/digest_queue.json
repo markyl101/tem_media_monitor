@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "url": "https://www.utilitydive.com/news/renewables-remain-cheapest-lcoe-rising-lazard/825443/",
+    "title": "Renewables remain cheapest, but their LCOE is rising: Lazard",
+    "snippet": "<figure><div><img src=\"https://imgproxy.divecdn.com/HUtacuC2cmRRkpJ4fvotWErZK_uwLq-CqoBuclILaVU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Sb3NhbW9uZF9zb2xhci5qcGc=.webp\" /></div></figure><p>Utility-scale solar&rsquo;s levelized cost of electricity ranges between $40/MWh and $98/MWh, while combined cycle gas ranges between $51/MWh and $129/MWh, said a report from Lazard.</p>",
+    "source": "Utility Dive",
+    "published": "Thu, 16 Jul 2026 13:33:09 -0400",
+    "fetched_via": "rss_industry",
+    "fetched_at": "2026-07-16T19:09:14.207471+00:00",
+    "relevance_score": 5,
+    "category": "industry",
+    "sentiment": "neutral",
+    "ai_summary": "Lazard's LCOE analysis shows renewables remain cost-competitive but with rising costs, relevant to tem's positioning in the renewable energy supply market and understanding generator economics.",
+    "ai_reasoning": "General industry trend piece on renewable economics and LCOE trends. Provides useful market context for understanding cost dynamics that affect both generators and I&C customers, but no direct business impact or named mention. Background reading suitable for market intelligence."
+  }
+]
