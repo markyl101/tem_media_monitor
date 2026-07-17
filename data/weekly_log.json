@@ -68,5 +68,19 @@
     "sentiment": "neutral",
     "ai_summary": "Lazard's LCOE analysis shows renewables remain cost-competitive but with rising costs, relevant to tem's positioning in the renewable energy supply market and understanding generator economics.",
     "ai_reasoning": "General industry trend piece on renewable economics and LCOE trends. Provides useful market context for understanding cost dynamics that affect both generators and I&C customers, but no direct business impact or named mention. Background reading suitable for market intelligence."
+  },
+  {
+    "url": "https://www.elexon.co.uk/2026/07/17/review-of-the-flexibility-market-facilitator-2026-2028-delivery-plan-july-2026/?utm_source=rss&utm_medium=rss&utm_campaign=review-of-the-flexibility-market-facilitator-2026-2028-delivery-plan-july-2026",
+    "title": "Review of the Flexibility Market Facilitator 2026-2028 Delivery Plan \u2013 July 2026",
+    "snippet": "<p>Elexon have published the latest version of the first two-year...</p>\n<p>The post <a href=\"https://www.elexon.co.uk/2026/07/17/review-of-the-flexibility-market-facilitator-2026-2028-delivery-plan-july-2026/\">Review of the Flexibility Market Facilitator 2026-2028 Delivery Plan \u2013 July 2026</a> appeared first on <a href=\"https://www.elexon.co.uk\">Elexon</a>.</p>",
+    "source": "Elexon",
+    "published": "Fri, 17 Jul 2026 08:23:13 +0000",
+    "fetched_via": "rss_regulatory",
+    "fetched_at": "2026-07-17T09:08:39.161697+00:00",
+    "relevance_score": 8,
+    "category": "regulatory",
+    "sentiment": "neutral",
+    "ai_summary": "Elexon's Flexibility Market Facilitator delivery plan directly impacts tem's flex and trading operations, as it shapes the framework for flexibility trading that tem participates in and offers to I&C customers.",
+    "ai_reasoning": "tem operates in the flexibility/balancing space and trades flex services; Elexon's FMF plan is a core regulatory development that affects how flex markets operate and are settled. This is background reading that could change tem's product positioning or operational strategy, warranting monitoring."
   }
 ]
