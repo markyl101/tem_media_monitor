@@ -82,5 +82,19 @@
     "sentiment": "neutral",
     "ai_summary": "Elexon's Flexibility Market Facilitator delivery plan directly impacts tem's flex and trading operations, as it shapes the framework for flexibility trading that tem participates in and offers to I&C customers.",
     "ai_reasoning": "tem operates in the flexibility/balancing space and trades flex services; Elexon's FMF plan is a core regulatory development that affects how flex markets operate and are settled. This is background reading that could change tem's product positioning or operational strategy, warranting monitoring."
+  },
+  {
+    "url": "https://www.utilitydive.com/spons/we-dont-need-more-proof-that-flexibility-works-we-need-more-people-using/825192/",
+    "title": "We don\u2019t need more proof that flexibility works. We need more people using it.",
+    "snippet": "<p>&quot;Flexibility works. The real bottleneck is scaling participation fast enough to matter.&quot;</p>",
+    "source": "Utility Dive",
+    "published": "Mon, 20 Jul 2026 05:00:00 -0400",
+    "fetched_via": "rss_industry",
+    "fetched_at": "2026-07-20T10:12:45.427113+00:00",
+    "relevance_score": 5,
+    "category": "industry",
+    "sentiment": "neutral",
+    "ai_summary": "Article discusses demand flexibility as a proven mechanism but notes the real challenge is scaling participant numbers. Relevant to tem's flex/trading business as it identifies market adoption barriers.",
+    "ai_reasoning": "General industry trend piece on flexibility scaling\u2014directly relevant to tem's flex offering but no tem mention, no specific market event, and no actionable intelligence this week. Background reading to understand market narrative around flexibility participation."
   }
 ]
