@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "url": "https://www.utilitydive.com/news/americas-next-industrial-boom-runs-electricity/824507/",
+    "title": "3 practical steps to ensure the US industrial boom runs on electricity",
+    "snippet": "<figure><div><img src=\"https://imgproxy.divecdn.com/nC9SsqYvgvWBcTfuh6yjmOVcjMRDYFphLj-Ur-Gw4t4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yMDIxMTIwNl9OQVRIQU4tSEVMRUlORV9OT1JNQUwtU0wyUy00OF9oaTV3eXcuanBn.webp\" /></div></figure><p>Long-term electricity procurement, on-site generation, efficiency and flexibility can give manufacturers more ways to manage their energy bills,&nbsp;writes the World Wildlife Fund&rsquo;s Cihang Yuan.</p>",
+    "source": "Utility Dive",
+    "published": "Tue, 21 Jul 2026 10:07:50 -0400",
+    "fetched_via": "rss_industry",
+    "fetched_at": "2026-07-21T15:42:56.705308+00:00",
+    "relevance_score": 5,
+    "category": "industry",
+    "sentiment": "neutral",
+    "ai_summary": "Article discusses US industrial electrification and long-term electricity procurement strategies. Relevant as background on I&C customer procurement trends and the shift to renewable electricity, though focused on US market rather than UK.",
+    "ai_reasoning": "Covers I&C electricity procurement and on-site generation strategies relevant to tem's sector, but is US-focused and lacks UK specificity or direct competitive/regulatory impact. Worth reading for industry context."
+  }
+]
