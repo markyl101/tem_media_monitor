@@ -26,5 +26,47 @@
     "sentiment": "positive",
     "ai_summary": "Article highlights co-location of solar, batteries, and EV charging as a cost-saving and emissions-reduction opportunity for fleet operators, relevant to tem's I&C customer base and renewable energy deployment trends.",
     "ai_reasoning": "Background reading on market trends and customer value propositions. Demonstrates growing interest in integrated renewable solutions among commercial customers, but no specific competitor move, regulatory change, or direct business trigger."
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVkRWWE9KQUM4MnlxUnNha1ZDT0RZR01Tb2hIRUdXcUdydUUyamRSaVRPQVRIaFc1eWNzcUFDZWtaV0o4bW1NNHFZaXBuOC1PQ3RmdFg1SmFhT0hvZjJUWk5FWkV4b25FMDNOWVU2b28tcnpIS0p5RnB6VTRqeWk3RW5FT1dja0M5Z3NXN3FJaDBhMkFONHZRZlB6UlB2Rmhla2FxRUZON1UxNmd2MFE?oc=5",
+    "title": "SmartestEnergy, Greentech ink CfD PPA for Kent solar project - Solar Power Portal",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNVkRWWE9KQUM4MnlxUnNha1ZDT0RZR01Tb2hIRUdXcUdydUUyamRSaVRPQVRIaFc1eWNzcUFDZWtaV0o4bW1NNHFZaXBuOC1PQ3RmdFg1SmFhT0hvZjJUWk5FWkV4b25FMDNOWVU2b28tcnpIS0p5RnB6VTRqeWk3RW5FT1dja0M5Z3NXN3FJaDBhMkFONHZRZlB6UlB2Rmhla2FxRUZON1UxNmd2MFE?oc=5\" target=\"_blank\">SmartestEnergy, Greentech ink CfD PPA for Kent solar project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Solar Power Portal</font>",
+    "source": "Solar Power Portal",
+    "published": "Wed, 22 Jul 2026 14:00:24 GMT",
+    "fetched_via": "google_news",
+    "fetched_at": "2026-07-22T15:41:49.387897+00:00",
+    "relevance_score": 8,
+    "category": "competitor",
+    "sentiment": "neutral",
+    "ai_summary": "SmartestEnergy, a direct competitor to tem, has secured a CfD-backed PPA for a Kent solar project, demonstrating competitive activity in the generator PPA market that tem serves.",
+    "ai_reasoning": "SmartestEnergy is a named direct competitor in tem's I&C renewable energy and PPA space. This news shows competitive movement in securing PPAs for solar generators, which is core to tem's business model. Warrants awareness of competitor positioning."
+  },
+  {
+    "url": "https://www.energylivenews.com/2026/07/22/government-launches-cleantech-challenges-to-turn-innovation-into-industry/",
+    "title": "Government launches cleantech challenges to turn innovation into industry",
+    "snippet": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://www.energylivenews.com/wp-content/uploads/2026/07/shutterstock_2505197531-resized-to-1035x546-1-150x150.jpeg\" width=\"150\" />Could new experiments help us the cut the cost of decarbonisation by billions?</p>\n<p>The post <a href=\"https://www.energylivenews.com/2026/07/22/government-launches-cleantech-challenges-to-turn-innovation-into-industry/\">Government launches cleantech challenges to turn innova",
+    "source": "Energy Live News",
+    "published": "Wed, 22 Jul 2026 15:00:00 +0000",
+    "fetched_via": "rss_industry",
+    "fetched_at": "2026-07-22T15:41:58.572769+00:00",
+    "relevance_score": 5,
+    "category": "industry",
+    "sentiment": "neutral",
+    "ai_summary": "Government cleantech challenge initiative is background reading on UK decarbonisation policy and innovation funding that may affect the broader renewable energy market tem operates in.",
+    "ai_reasoning": "This is general government policy on cleantech and decarbonisation, relevant to the macro environment but not specific to tem's operations, competitors, or regulation. Worth monitoring for long-term trends but no immediate action needed."
+  },
+  {
+    "url": "https://www.utilitydive.com/news/utility-model-grid-investment-affordability-roe/825672/",
+    "title": "Don\u2019t gut the utility model just as we need it most",
+    "snippet": "<figure><div><img src=\"https://imgproxy.divecdn.com/UswuIXMDm8E-vS-386HyP20-Hgo06aKiVzOsxJYWOnI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DZW50ZXJQb2ludFRyYW5zbWlzc2lvbi5qcGc=.webp\" /></div></figure><p>Cutting utility returns won't lower electric bills and will leave us a more fragile power grid, writes&nbsp;Scott Aaronson, former&nbsp;secretary of the Electricity Subsector Coordinating Council.</p>",
+    "source": "Utility Dive",
+    "published": "Wed, 22 Jul 2026 10:27:22 -0400",
+    "fetched_via": "rss_industry",
+    "fetched_at": "2026-07-22T15:41:58.661745+00:00",
+    "relevance_score": 5,
+    "category": "regulatory",
+    "sentiment": "neutral",
+    "ai_summary": "Opinion piece on utility regulation and returns; relevant as background on DNO and utility policy debate that may influence future regulatory decisions affecting tem's market.",
+    "ai_reasoning": "This touches on utility regulation and ROE policy, which is tangentially related to DNO charges and the broader regulatory environment, but is opinion-based and not a specific regulatory change or consultation affecting tem's immediate operations."
   }
 ]
