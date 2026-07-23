@@ -82,5 +82,47 @@
     "sentiment": "neutral",
     "ai_summary": "Ofgem investigation into NESO's response to heatwave pressures is relevant to understanding grid management and potential future regulatory changes affecting balancing and system operation that could impact tem's trading and flex positioning.",
     "ai_reasoning": "This is regulatory news about system operator performance during peak demand, which is background context for understanding grid pressures and potential future BSC/balancing mechanism changes. No direct impact on tem's operations this week, but worth monitoring for emerging regulatory focus on network resilience."
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR05fcUJoMXl6VGMzWDNPV09sNmg0Q0JQTkhqV3ZvSkFLRF9EN1F1bVpIM3hLQmctVWp1NmduYnBnU21ubHZfYVFJak9IRHpaNkw2ZVcxTzFnb3hBQkhXV2dCUGl2YVJrYlFEV2c0NlBiU0tfNlVJN2NtdnNMVVNTODR0VnpOTjB6anRVaGFoTDkyUHRNZkJrV3VFNWUtUQ?oc=5",
+    "title": "Watch: TotalEnergies Gas & Power Discusses Hourly Matched - Energy Live News",
+    "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNR05fcUJoMXl6VGMzWDNPV09sNmg0Q0JQTkhqV3ZvSkFLRF9EN1F1bVpIM3hLQmctVWp1NmduYnBnU21ubHZfYVFJak9IRHpaNkw2ZVcxTzFnb3hBQkhXV2dCUGl2YVJrYlFEV2c0NlBiU0tfNlVJN2NtdnNMVVNTODR0VnpOTjB6anRVaGFoTDkyUHRNZkJrV3VFNWUtUQ?oc=5\" target=\"_blank\">Watch: TotalEnergies Gas & Power Discusses Hourly Matched</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energy Live News</font>",
+    "source": "Energy Live News",
+    "published": "Thu, 23 Jul 2026 10:39:50 GMT",
+    "fetched_via": "google_news",
+    "fetched_at": "2026-07-23T11:08:48.546306+00:00",
+    "relevance_score": 8,
+    "category": "competitor",
+    "sentiment": "neutral",
+    "ai_summary": "TotalEnergies Gas & Power, a direct competitor to tem, is promoting 'Hourly Matched' offering that helps organisations improve renewable energy transparency. This product positioning is relevant to tem's competitive landscape in the I&C renewable energy market.",
+    "ai_reasoning": "TotalEnergies is a named competitor and the item discusses a product capability (hourly matching/transparency) that relates directly to tem's core market of I&C renewable energy supply. This warrants awareness and potential competitive response, scoring it as 8."
+  },
+  {
+    "url": "https://www.energylivenews.com/2026/07/23/watch-totalenergies-gas-power-discusses-hourly-matched/",
+    "title": "Watch: TotalEnergies Gas & Power Discusses Hourly Matched",
+    "snippet": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://www.energylivenews.com/wp-content/uploads/2026/07/shutterstock_2746827803-150x150.jpg\" width=\"150\" />Discover how Hourly Matched helps organisations improve renewable energy transparency with detailed reporting and enhanced sustainability insights for informed decision-making.</p>\n<p>The post <a href=\"https://www.energylivenews.com/2026/07/23/watch-totalenergies-gas-power-discusses-hourly-matched/\"",
+    "source": "Energy Live News",
+    "published": "Thu, 23 Jul 2026 10:39:33 +0000",
+    "fetched_via": "rss_industry",
+    "fetched_at": "2026-07-23T11:08:57.862542+00:00",
+    "relevance_score": 8,
+    "category": "competitor",
+    "sentiment": "neutral",
+    "ai_summary": "TotalEnergies Gas & Power is highlighting a competitive product ('Hourly Matched') that addresses renewable energy transparency and organisational reporting\u2014a key value proposition in the I&C renewable energy market where tem operates.",
+    "ai_reasoning": "Direct competitor activity promoting a relevant product capability in hourly-matched renewable energy supply. This is a substantive competitive product discussion that tem should be aware of and potentially respond to. Scores as 8 for competitive intelligence."
+  },
+  {
+    "url": "https://www.energylivenews.com/2026/07/23/engie-expands-scottish-battery-storage-to-strengthen-britains-clean-energy-future/",
+    "title": "Engie expands Scottish battery storage to strengthen Britain\u2019s clean energy future",
+    "snippet": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://www.energylivenews.com/wp-content/uploads/2026/07/Engie-Batteries-Scotland-150x150.jpg\" width=\"150\" />Scottish battery storage boosts renewable integration, strengthening Britain's cleaner, smarter electricity network</p>\n<p>The post <a href=\"https://www.energylivenews.com/2026/07/23/engie-expands-scottish-battery-storage-to-strengthen-britains-clean-energy-future/\">Engie expands Scottish battery s",
+    "source": "Energy Live News",
+    "published": "Thu, 23 Jul 2026 10:00:00 +0000",
+    "fetched_via": "rss_industry",
+    "fetched_at": "2026-07-23T11:08:57.862548+00:00",
+    "relevance_score": 5,
+    "category": "industry",
+    "sentiment": "positive",
+    "ai_summary": "Engie is expanding battery storage in Scotland to support renewable integration. This is relevant background reading on energy infrastructure trends but does not directly impact tem's I&C renewable supply business or competitive positioning.",
+    "ai_reasoning": "Battery storage expansion is relevant to the broader renewable energy and grid decarbonisation landscape, but it is not a direct competitor product launch, regulatory change, or market event requiring immediate action. Useful context for industry trends, scores as 5."
   }
 ]
