@@ -40,5 +40,19 @@
     "sentiment": "neutral",
     "ai_summary": "Opinion piece on utility regulation and returns; relevant as background on DNO and utility policy debate that may influence future regulatory decisions affecting tem's market.",
     "ai_reasoning": "This touches on utility regulation and ROE policy, which is tangentially related to DNO charges and the broader regulatory environment, but is opinion-based and not a specific regulatory change or consultation affecting tem's immediate operations."
+  },
+  {
+    "url": "https://www.energylivenews.com/2026/07/23/ofgem-to-investigate-neso-over-heatwave-pressures/",
+    "title": "Ofgem to investigate NESO over heatwave pressures",
+    "snippet": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://www.energylivenews.com/wp-content/uploads/2026/07/shutterstock_122540764-resized-to-1035x685-1-150x150.jpeg\" width=\"150\" />Regulator will look into how the network operator coped with heatwave and whistleblower's allegations</p>\n<p>The post <a href=\"https://www.energylivenews.com/2026/07/23/ofgem-to-investigate-neso-over-heatwave-pressures/\">Ofgem to investigate NESO over heatwave pressures</a> app",
+    "source": "Energy Live News",
+    "published": "Thu, 23 Jul 2026 08:00:00 +0000",
+    "fetched_via": "rss_industry",
+    "fetched_at": "2026-07-23T08:28:38.592090+00:00",
+    "relevance_score": 5,
+    "category": "regulatory",
+    "sentiment": "neutral",
+    "ai_summary": "Ofgem investigation into NESO's response to heatwave pressures is relevant to understanding grid management and potential future regulatory changes affecting balancing and system operation that could impact tem's trading and flex positioning.",
+    "ai_reasoning": "This is regulatory news about system operator performance during peak demand, which is background context for understanding grid pressures and potential future BSC/balancing mechanism changes. No direct impact on tem's operations this week, but worth monitoring for emerging regulatory focus on network resilience."
   }
 ]
