@@ -138,5 +138,19 @@
     "sentiment": "neutral",
     "ai_summary": "Article explores how AI's energy demand could be matched with renewable curtailment, potentially creating demand-side flexibility opportunities. Relevant to tem's interest in flex trading and balancing mechanisms, but no specific business impact identified.",
     "ai_reasoning": "This is background industry reading on emerging demand flexibility and renewable management trends. It touches on areas adjacent to tem's flex/trading business but lacks specificity on market mechanisms, regulation, or competitive landscape. Worth understanding the trend but no immediate action required."
+  },
+  {
+    "url": "https://www.energylivenews.com/2026/07/24/neso-steps-up-restrictions-on-electricity-interconnector-capacity/",
+    "title": "NESO steps up restrictions on electricity interconnector capacity",
+    "snippet": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://www.energylivenews.com/wp-content/uploads/2025/12/Shutterstock_2393210151-150x150.jpg\" width=\"150\" />Four interconnectors to be regulated more tightly to adjust power flows in and out of the country</p>\n<p>The post <a href=\"https://www.energylivenews.com/2026/07/24/neso-steps-up-restrictions-on-electricity-interconnector-capacity/\">NESO steps up restrictions on electricity interconnector capacity</",
+    "source": "Energy Live News",
+    "published": "Fri, 24 Jul 2026 09:00:00 +0000",
+    "fetched_via": "rss_industry",
+    "fetched_at": "2026-07-24T10:15:58.762235+00:00",
+    "relevance_score": 7,
+    "category": "regulatory",
+    "sentiment": "neutral",
+    "ai_summary": "NESO restrictions on interconnector capacity will affect electricity balancing, wholesale price formation, and cross-border power flows\u2014key factors in tem's wholesale electricity procurement and trading strategy for I&C customers.",
+    "ai_reasoning": "Interconnector capacity management influences wholesale electricity pricing, balancing mechanism outcomes, and grid costs that directly feed into tem's hedging and PPA pricing models. This is a material regulatory/operational development warranting close monitoring, though not an immediate crisis-level event."
   }
 ]
